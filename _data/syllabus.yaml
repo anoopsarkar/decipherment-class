@@ -1,7 +1,8 @@
-current:
-  - date: 2014-01-06
-    title: Course introduction
 past:
   - 
     date: 2014-01-06
     title: Course introduction
+  - 
+    date: 2014-01-06
+    title: ACL 2013 Tutorial on Decipherment by Kevin Knight
+    slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
