@@ -7,26 +7,16 @@ title: Course Information
 active_tab: main_page 
 ---
 
-Imagine a world where you can pick up a phone and talk in English,
-while at the other end of the line your words are [spoken in
-Chinese](https://www.youtube.com/watch?v=Nu-nlQqFCKg).  Imagine a
-[computer animated representation of
-yourself](http://mitpress.mit.edu/books/embodied-conversational-agents)
-speaking fluently what you have written in an email. Imagine
-automatically uncovering protein/drug interactions in [petabytes
-of medical abstracts](http://fable.chop.edu/). Imagine feeding a
-computer an ancient script that no living person can read, then
-listening as [the computer reads aloud in this dead
-language](http://aclanthology.info/papers/a-computational-approach-to-deciphering-unknown-scripts).
-Imagine a computer that can [do better than humans at answering
-questions](https://www.youtube.com/watch?v=lI-M7O_bRNg).  
+# Machine Learning for Decipherment
 
-Natural Language Processing is the automatic analysis of human
-languages such as English, Korean, and thousands of others analyzed
-by computer algorithms. Unlike artificially created programming
-languages where the structure and meaning of programs is easy to
-encode, human languages provide an interesting challenge, both in
-terms of its analysis and the learning of language from observations.
+This course is about machine learning and natural language processing
+(NLP) methods applied to the task of decipherment. Codes, ciphers,
+and scripts are examples of things that need decipherment. The
+problem of decipherment is a canonical example of unsupervised
+learning, as there is no human annotation available. So, the course
+will focus on many unsupervised learning methods applicable to the
+decipherment task. We will also study how decipherment methods can
+be useful for other NLP tasks such as machine translation.
 
 Instructor
 : [Anoop Sarkar](http://www.cs.sfu.ca/~anoop/) 
