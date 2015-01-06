@@ -7,11 +7,9 @@ title: Course Information
 active_tab: main_page 
 ---
 
-## Znpuvar Yrneavat sbe Qrpvcurezrag
-<!--
 ## Machine Learning for Decipherment
--->
 
+<!-- rot13 -->
 Guvf pbhefr vf nobhg znpuvar yrneavat naq angheny ynathntr cebprffvat
 (AYC) zrgubqf nccyvrq gb gur gnfx bs qrpvcurezrag. Pbqrf, pvcuref,
 naq fpevcgf ner rknzcyrf bs guvatf gung arrq qrpvcurezrag. Gur 
@@ -20,6 +18,16 @@ yrneavat, nf gurer vf ab uhzna naabgngvba ninvynoyr. Fb, gur pbhefr
 jvyy sbphf ba znal hafhcreivfrq yrneavat zrgubqf nccyvpnoyr gb gur 
 qrpvcurezrag gnfx. Jr jvyy nyfb fghql ubj qrpvcurezrag zrgubqf pna 
 or hfrshy sbe bgure AYC gnfxf fhpu nf znpuvar genafyngvba.
+
+<!-- runningkey.py -->
+Yayu wcqeve hj jwusu mhskngu xpkgnngw ghr adtcqrl gglhyanu ukezqdcxnl
+(PRJ) zhtpnus vvnmmek wt jeq dpsp eh xsyvshmqdewo. Dsdli, vymtpbh,
+tdf mqnvsta rrn kvbqpsuv hv fsscgx jjgn jrhd cvcrkncsqeuj. Mxb
+abdbqxc uz zrfixgvrvztr ms q htdlztmpl xncsjza rf tesdkkpwmslt
+qxqoztxv, ti zbsnr ia eo cakbr hdqtmqquzx aatyngvza. Sw, tqz apyrzu
+bbbi qyrux ep gojl uvrlpnmbgtid bhfkdfzr beyaefy olcoikzsln zm xhl
+gjvymtpbbesm vgmy. Ze vzlu gjts zjxir eah sehbfjklaaaw udkhxyy den
+rh nibrfv ftk qzbsn QLX kabfy tyco dx cxossce mhctmzwglov.
 
 <!--
 This course is about machine learning and natural language processing
