@@ -9,6 +9,16 @@ active_tab: main_page
 
 ## Machine Learning for Decipherment
 
+Guvf pbhefr vf nobhg znpuvar yrneavat naq angheny ynathntr cebprffvat
+(AYC) zrgubqf nccyvrq gb gur gnfx bs qrpvcurezrag. Pbqrf, pvcuref,
+naq fpevcgf ner rknzcyrf bs guvatf gung arrq qrpvcurezrag. Gur 
+ceboyrz bs qrpvcurezrag vf n pnabavpny rknzcyr bs hafhcreivfrq
+yrneavat, nf gurer vf ab uhzna naabgngvba ninvynoyr. Fb, gur pbhefr
+jvyy sbphf ba znal hafhcreivfrq yrneavat zrgubqf nccyvpnoyr gb gur 
+qrpvcurezrag gnfx. Jr jvyy nyfb fghql ubj qrpvcurezrag zrgubqf pna 
+or hfrshy sbe bgure AYC gnfxf fhpu nf znpuvar genafyngvba.
+
+<!--
 This course is about machine learning and natural language processing
 (NLP) methods applied to the task of decipherment. Codes, ciphers,
 and scripts are examples of things that need decipherment. The
@@ -17,10 +27,11 @@ learning, as there is no human annotation available. So, the course
 will focus on many unsupervised learning methods applicable to the
 decipherment task. We will also study how decipherment methods can
 be useful for other NLP tasks such as machine translation.
+-->
 
 Instructor
 : [Anoop Sarkar](http://www.cs.sfu.ca/~anoop/) 
-: Office Hours: Mondays 9am-11am TASC1 9427
+: Office Hours: Mondays 10am-11am TASC1 9427
 
 Discussion Board
 : [on Coursys](https://courses.cs.sfu.ca/2014fa-cmpt-413-x1/discussion/)
