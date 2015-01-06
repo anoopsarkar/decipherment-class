@@ -29,3 +29,8 @@ should be.  Your job is to fill in the missing characters:
 
 ![Bablylonian tablet](bab-stone.jpg 'Bablylonian tablet with numbers')
 
+### Acknowledgements
+
+This question appeared in a [NACLO problem set](http://www.nacloweb.org/).
+Unfortunately, I did not record the author of this question when I
+first downloaded the image many years ago.
