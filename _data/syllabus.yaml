@@ -16,10 +16,17 @@ past:
     title: ACL 2013 Tutorial on Decipherment by Kevin Knight
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
     reading:
-        - author: C. E. Shannon
-          title: "Communication Theory of Secrecy Systems"
-          url: "http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf"
         - author: Alan Turing
           title: "Intelligent Machinery"
           url: http://www.alanturing.net/intelligent_machinery/
           optional: true
+  - 
+    date: 2014-01-13
+    title: n-gram substitution and decipherment
+    reading:
+        - author: Peter Norvig
+          title: Natural Language Corpus Data
+          url: "http://norvig.com/ngrams/ch14.pdf"
+        - author: C. E. Shannon
+          title: "Communication Theory of Secrecy Systems"
+          url: "http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf"
