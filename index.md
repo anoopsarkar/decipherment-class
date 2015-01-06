@@ -1,8 +1,8 @@
 ---
 layout: default
-img: C-3PO
-img_link: "http://en.wikipedia.org/wiki/Languages_in_Star_Wars"
-caption: "In Star Wars, C-3PO is fluent in over six million forms of communication."
+img: rosetta
+img_link: "http://en.wikipedia.org/wiki/Rosetta_Stone"
+caption: "The Rosetta Stone was used to decipher the Egyptian hieroglyphic and demotic script."
 title: Course Information
 active_tab: main_page 
 ---
