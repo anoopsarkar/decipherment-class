@@ -1,8 +1,8 @@
 ---
 layout: default
-img: artsrouni
-img_link: http://www.hutchinsweb.me.uk/IJT-2004.pdf
-caption: "Georges Artsrouni's mechanical brain, a translation device patented in 1933 in France."
+img: voynich
+img_link: "http://en.wikipedia.org/wiki/Voynich_manuscript"
+caption: "The Voynich manuscript. As yet unread."
 title: Syllabus
 active_tab: syllabus
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-img: escherbabel
-img_link: http://en.wikipedia.org/wiki/Tower_of_Babel_(M._C._Escher)
-caption: "1928 woodcut by M. C. Escher showing the Tower of Babel."
+img: susatablet
+img_link: "http://en.wikipedia.org/wiki/Proto-Elamite"
+caption: "Tablet from Susa, an early Bronze age civilization in modern day Iran. Undeciphered."
 title: "Project"
 active_tab: project
 ---
