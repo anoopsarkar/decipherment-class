@@ -1,7 +1,7 @@
-nlp-class
+Machine Learning for Decipherment
 =========
 
-Course website for the NLP class at SFU in Computing Science for undergraduate and graduate students.
+Course website for the graduate seminar on _Machine Learning for Decipherment_ at SFU in Computing Science.
 
 Cloned from https://github.com/mt-class/jhu and then modified.
 
