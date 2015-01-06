@@ -4,6 +4,8 @@ title: Babylonian numbers
 active_tab: syllabus
 ---
 
+## Decipher Babylonian numbers
+
 The earliest known writing system originated over 5000 years ago
 in what is now Iran, Iraq and other parts of Western Asia. This
 writing system, called ``cuneiform,'' was used by the Elamites and
