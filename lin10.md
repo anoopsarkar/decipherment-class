@@ -38,6 +38,4 @@ For inspiration, check out:
 * [Machine Translation Archive](http://www.mt-archive.info/)
 * [World Atlas of Language Structures](http://wals.info/)
 
-We will grade on clarity and detail. Did you learn 
-something really cool? Tell us!
 
