@@ -1,1 +1,19 @@
 body { padding-top: 70px; }
+
+input.trigger {
+  display:inline-block;
+  margin:0px;
+  padding:0px;
+}
+
+.spoiler {
+  background-color:white;
+  padding:15px 30px;
+  margin:10px 0px 0px;
+  display:none;
+}
+
+input.trigger:checked + .spoiler {
+  display:block;
+}
+
