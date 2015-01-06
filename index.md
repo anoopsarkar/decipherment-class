@@ -7,7 +7,7 @@ title: Course Information
 active_tab: main_page 
 ---
 
-# Machine Learning for Decipherment
+## Machine Learning for Decipherment
 
 This course is about machine learning and natural language processing
 (NLP) methods applied to the task of decipherment. Codes, ciphers,
