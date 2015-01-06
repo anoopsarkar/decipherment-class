@@ -7,7 +7,10 @@ title: Course Information
 active_tab: main_page 
 ---
 
+## Znpuvar Yrneavat sbe Qrpvcurezrag
+<!--
 ## Machine Learning for Decipherment
+-->
 
 Guvf pbhefr vf nobhg znpuvar yrneavat naq angheny ynathntr cebprffvat
 (AYC) zrgubqf nccyvrq gb gur gnfx bs qrpvcurezrag. Pbqrf, pvcuref,
