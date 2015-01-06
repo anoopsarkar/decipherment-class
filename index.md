@@ -32,15 +32,11 @@ Instructor
 : [Anoop Sarkar](http://www.cs.sfu.ca/~anoop/) 
 : Office Hours: Mondays 9am-11am TASC1 9427
 
-Teaching Assistant
-: [Maryam Siahbani](http://www.cs.sfu.ca/~msiahban/personal/)
-: Office Hours: Wednesdays 2pm-3pm TASC1 9408
-
 Discussion Board
 : [on Coursys](https://courses.cs.sfu.ca/2014fa-cmpt-413-x1/discussion/)
 
 Time and place
-: Tuesdays 2:30-4:20, Thursdays 2:30-3:20, AQ 3150
+: Tuesdays 2:30-4:20 @ SECB 1010, Thursdays 2:30-3:20 @ AQ 5037
 
 Calendar
 : [Subscribe](https://courses.cs.sfu.ca/calendar/7239eedd1545d3fe8a32c7c9dddd5b86/anoop)
