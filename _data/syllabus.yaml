@@ -11,3 +11,7 @@ past:
         title: "Breaking the Maya Code"
         video: http://www.pbs.org/wgbh/nova/ancient/cracking-maya-code.html
         optional: true
+      - author: Alan Turing
+        title: "Intelligent Machinery"
+        url: http://www.alanturing.net/intelligent_machinery/
+        optional: true
