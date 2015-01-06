@@ -34,7 +34,7 @@ Instructor
 : Office Hours: Mondays 10am-11am TASC1 9427
 
 Discussion Board
-: [on Coursys](https://courses.cs.sfu.ca/2014fa-cmpt-413-x1/discussion/)
+: [on Coursys](https://courses.cs.sfu.ca/2015sp-cmpt-882-g2/discussion/)
 
 Time and place
 : Tuesdays 2:30-4:20 @ SECB 1010, Thursdays 2:30-3:20 @ AQ 5037
@@ -46,9 +46,11 @@ Textbook
 : No required textbook. Online readings provided in Syllabus.
 
 Grading
-: Submit homework source code and check your grades on [Coursys](https://courses.cs.sfu.ca/2014fa-cmpt-413-x1/)
+: Submit homework source code and check your grades on [Coursys](https://courses.cs.sfu.ca/2015sp-cmpt-882-g2/)
 
-* Two programming homeworks. (40%; 20% each)
+* Two programming homeworks. (20%; 10% each)
+* Discussion board activity on readings. (15%)
+* Language in 10. (5%)
 * In class presentations. (20%)
 * Poster presentation. (10%)
 * Final project. (30%)
