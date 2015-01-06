@@ -1,8 +1,6 @@
 ---
 layout: notes
 title: Babylonian numbers
-img: babylon-lion
-img_link: "http://en.wikipedia.org/wiki/Babylonia"
 active_tab: syllabus
 ---
 
