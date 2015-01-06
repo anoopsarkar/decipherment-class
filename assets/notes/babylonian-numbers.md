@@ -30,15 +30,6 @@ should be.  Your job is to fill in the missing characters:
 ![Bablylonian tablet](bab-stone.jpg 'Bablylonian tablet with numbers')
 
 
-<input type="checkbox" class="trigger" />
-Hint #1 <div class="spoiler">Focus on the left column.</div>
-
-<input type="checkbox" class="trigger" />
-Hint #2 <div class="spoiler">Find the symbol for 10 in the left column. Then focus on the first two numbers of the second column.</div>
-
-<input type="checkbox" class="trigger" />
-Hint #3 <div class="spoiler">Bablylonians used a base 60 number system. Symbols before the symbol for 10 may be different from after the 10 even if they look similar.</div>
-
 ### Acknowledgements
 
 This question appeared in a [NACLO problem set](http://www.nacloweb.org/).
