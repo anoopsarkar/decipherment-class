@@ -9,7 +9,17 @@ active_tab: main_page
 
 ## Machine Learning for Decipherment
 
+This course is about machine learning and natural language processing
+(NLP) methods applied to the task of decipherment. Codes, ciphers,
+and scripts are examples of things that need decipherment. The
+problem of decipherment is a canonical example of unsupervised
+learning, as there is no human annotation available. So, the course
+will focus on many unsupervised learning methods applicable to the
+decipherment task. We will also study how decipherment methods can
+be useful for other NLP tasks such as machine translation.
+
 <!-- rot13 -->
+<!--
 Guvf pbhefr vf nobhg znpuvar yrneavat naq angheny ynathntr cebprffvat
 (AYC) zrgubqf nccyvrq gb gur gnfx bs qrpvcurezrag. Pbqrf, pvcuref,
 naq fpevcgf ner rknzcyrf bs guvatf gung arrq qrpvcurezrag. Gur 
@@ -18,6 +28,7 @@ yrneavat, nf gurer vf ab uhzna naabgngvba ninvynoyr. Fb, gur pbhefr
 jvyy sbphf ba znal hafhcreivfrq yrneavat zrgubqf nccyvpnoyr gb gur 
 qrpvcurezrag gnfx. Jr jvyy nyfb fghql ubj qrpvcurezrag zrgubqf pna 
 or hfrshy sbe bgure AYC gnfxf fhpu nf znpuvar genafyngvba.
+-->
 
 <!-- runningkey.py -->
 Yayu wcqeve hj jwusu mhskngu xpkgnngw ghr adtcqrl gglhyanu ukezqdcxnl
@@ -28,17 +39,6 @@ qxqoztxv, ti zbsnr ia eo cakbr hdqtmqquzx aatyngvza. Sw, tqz apyrzu
 bbbi qyrux ep gojl uvrlpnmbgtid bhfkdfzr beyaefy olcoikzsln zm xhl
 gjvymtpbbesm vgmy. Ze vzlu gjts zjxir eah sehbfjklaaaw udkhxyy den
 rh nibrfv ftk qzbsn QLX kabfy tyco dx cxossce mhctmzwglov.
-
-<!--
-This course is about machine learning and natural language processing
-(NLP) methods applied to the task of decipherment. Codes, ciphers,
-and scripts are examples of things that need decipherment. The
-problem of decipherment is a canonical example of unsupervised
-learning, as there is no human annotation available. So, the course
-will focus on many unsupervised learning methods applicable to the
-decipherment task. We will also study how decipherment methods can
-be useful for other NLP tasks such as machine translation.
--->
 
 Instructor
 : [Anoop Sarkar](http://www.cs.sfu.ca/~anoop/) 
