@@ -7,9 +7,9 @@
     <title>SFU Decipherment class: {{ page.title }}</title>
 
     <!-- CSS -->
-    <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./dist/css/bootstrap-glyphicons.css" rel="stylesheet">
-    <link href="assets/css/nlp-class.css" rel="stylesheet">   
+    <link href="{{site.baseurl}}/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{site.baseurl}}/dist/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="{{site.baseurl}}/assets/css/nlp-class.css" rel="stylesheet">   
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -40,12 +40,12 @@
             <span class="icon-bar"></span>
           </button>
           <ul class="nav navbar-nav">
-            <li id="main_page"><a href="index.html" class="navbar-brand">Decipherment</a></li>
+            <li id="main_page"><a href="{{site.baseurl}}/index.html" class="navbar-brand">Decipherment</a></li>
           </ul>
         </div>
         <nav class="collapse navbar-collapse" role="navigation">
           <ul class="nav navbar-nav">
-            <li id="syllabus"><a href="syllabus.html">Syllabus</a></li>
+            <li id="syllabus"><a href="{{site.baseurl}}/syllabus.html">Syllabus</a></li>
 <!--
             <li id="homework">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework <span class="caret"></span></a>
@@ -60,8 +60,8 @@
             </li>
             <li id="leaderboard"><a href="leaderboard.html">Leaderboard</a></li>
 -->
-            <li id="lin10"><a href="lin10.html">Language in 10</a></li>
-            <li id="project"><a href="project.html">Project</a></li>
+            <li id="lin10"><a href="{{site.baseurl}}/lin10.html">Language in 10</a></li>
+            <li id="project"><a href="{{site.baseurl}}/project.html">Project</a></li>
             <li id="wiki"><a href="https://github.com/anoopsarkar/decipherment-class/wiki">Wiki</a></li>
           </ul>
         </nav>
@@ -72,10 +72,12 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-2 hidden-sm hidden-xs">
+          {% if page.img %}
           {% if page.img_link %}<a href="{{ page.img_link }}">{% endif %} 
-          <img src="assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
+          <img src="{{site.baseurl}}/assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.picture }}"/>
           {% if page.img_link %}</a>{% endif %} 
           <span class="text-muted"><i>{{ page.caption }}</i></span>
+          {% endif %}
         </div>
         <div class="col-sm-10">
           {{ content }}
@@ -95,7 +97,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./dist/js/bootstrap.min.js"></script>
+    <script src="{{site.baseurl}}/dist/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function(){
         $("#{{ page.active_tab }}").addClass("active");

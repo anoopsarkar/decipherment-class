@@ -1,3 +1,4 @@
 exclude: ['README.md']
 timezone: US/Pacific
 markdown: kramdown
+baseurl: http://anoopsarkar.github.io/decipherment-class
