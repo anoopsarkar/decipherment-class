@@ -3,6 +3,8 @@ past:
     date: 2014-01-06
     title: Course introduction
     reading:
+        - title: Babylonian numbers
+          url: assets/notes/babylonian-numbers.html
         - author: PBS Nova
           title: "Breaking the Maya Code"
           video: http://www.pbs.org/wgbh/nova/ancient/cracking-maya-code.html
