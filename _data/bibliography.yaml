@@ -1,0 +1,129 @@
+papers:
+  -
+    title: "Practical Linguistic Steganography using Contextual Synonym Substitution and a Novel Vertex Coding Method"
+    author: Ching-Yun Chang and Stephen Clark
+    citation: "Computational Linguistics, 40(2), pp.403-448, 2014"
+    url: "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00176"
+  - 
+    title: "Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation" 
+    author: Qing Dou and Ashish Vaswani and Kevin Knight
+    citation: EMNLP 2014
+  - 
+    title: "Cipher Type Detection" 
+    author: Malte Nuhn and Kevin Knight
+    citation: EMNLP 2014
+  - 
+    title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
+    author: Qing Dou and Kevin Knight
+    citation: EMNLP 2013
+  - 
+    title: "Large Scale Decipherment for Out-of-Domain Machine Translation" 
+    author: Qing Dou and Kevin Knight
+    citation: EMNLP 2012
+  - 
+    title: "Decoding Running Key Ciphers" 
+    author: Sravana Reddy and Kevin Knight
+    citation: short paper. ACL 2012
+  - 
+    title: "The Secrets of the Copiale Cipher" 
+    author: K. Knight and B. Megyesi and C. Schaefer
+    citation: Journal of Research into Freemasonry and Fraternalism, 2(2), 2012.
+  -
+    title: "Deciphering Foreign Language" 
+    author: S. Ravi and K. Knight
+    citation: ACL 2011
+  -
+    title: "Bayesian Inference for Zodiac and Other Homophonic Ciphers"
+    author: S. Ravi and K. Knight
+    citation: ACL 2011
+  -
+    title: "Unsupervised Discovery of Rhyme Schemes" 
+    author: S. Reddy and K. Knight
+    citation: ACL 2011
+  -
+    title: "What We Know About the Voynich Manuscript" 
+    author: S. Reddy and K. Knight
+    citation: ACL 2011 Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH)
+    url: http://www.aclweb.org/anthology-new/W/W11/W11-1511.pdf
+  -
+    title: "The Copiale Cipher" 
+    author: K. Knight and B. Megyesi and C. Schaefer
+    citation: Invited talk at ACL 2011 Workshop on Building and Using Comparable Corpora (BUCC)
+    url: http://www.aclweb.org/anthology/W/W11/W11-1202.pdf
+  - 
+    title: "A Statistical Model for Lost Language Decipherment"
+    author: B. Snyder, R. Barzilay, and K. Knight
+    citation: ACL 2010
+    url: http://www.aclweb.org/anthology/P/P10/P10-1107.pdf
+  -
+    title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
+    author: S. Ravi and K. Knight
+    citation: "Cryptologia, 33(4), pp. 321-334, 2009"
+    url: http://www.informaworld.com/smpp/ftinterface~content=a914962270~fulltext=713240930
+  -
+    title: "A Computational Approach to Deciphering Unknown Scripts"
+    author: K. Knight and K. Yamada
+    citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
+    url: http://www.aclweb.org/anthology/W/W99/W99-0906.pdf
+  -
+    title: "Climbing the Tower of Babel: Unsupervised Multilingual Learning"
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: ICML 2010
+    url: http://people.csail.mit.edu/regina/my_papers/bsnyder_icml2010.pdf
+  -
+    title: "Adding More Languages Improves Unsupervised Multilingual Part-of-Speech Tagging: A Bayesian Non-Parametric Approach"
+    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay 
+    citation: NAACL 2009
+  -
+    title: "Unsupervised Multilingual Learning for Part-of-Speech Tagging"
+    author: Tahira Naseem and Benjamin Snyder and Jacob Eisenstein and Regina Barzilay 
+    citation: Journal of Artificial Intelligence Research, 36, 2009.
+    url: http://people.csail.mit.edu/regina/my_papers/jair-pos.pdf
+  -
+    title: "Unsupervised Multilingual Learning for Morphological Segmentation"
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: ACL 2008
+  -
+    title: "Unsupervised Multilingual Learning for POS Tagging"
+    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay
+    citation: EMNLP 2008
+  -
+    title: "Cross-lingual Propagation for Morphological Analysis",
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: AAAI 2008
+    url: http://people.csail.mit.edu/regina/my_papers/aaai08-bsnyder.pdf
+books:
+  - 
+    title: Reading the Maya glyphs
+    author: Michael D. Coe and Mark Van Stone
+  -
+    title: A Computational Theory of Writing Systems
+    author: Richard Sproat
+  - 
+    title: "Number words and numbers symbols: A cultural history of numbers"
+    author: Karl Menninger
+  - 
+    title: "Lost Languages: The enigma of the world's undeciphered scripts"
+    author: Andrew Robinson
+  -
+    title: "The eater's guide to Chinese characters"
+    author: James D. McCawley
+  - 
+    title: "How to read Maya Hieroglyphs"
+    author: John Montgomery
+  - 
+    title: "Dictionary of Maya Hieroglyphs"
+    author: John Montgomery
+  - 
+    title: "Understanding Maya Inscriptions"
+    author: John F. Harris and Stephen K. Stearns
+  - 
+    title: "The Voynich manuscript -- An Elegant Enigma"
+    author: "Mary D'Imperio"
+  -
+    title: "The decipherment of Linear B"
+    author: John Chadwick
+  - title: "The disk from Phaistos"
+    author: Victor J. Kean
+
+    
