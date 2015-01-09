@@ -9,6 +9,20 @@ active_tab: bibliography
 
 # Bibliography
 
+## Tutorials
+
+<ul>
+{% for tut in site.data.bibliography.tutorials %}
+    <li>
+        {% if tut.url %}<a href="{{ tut.url }}">{{ tut.title }}</a>
+        {% else %}{{ tut.title }}
+        {% endif %}    
+        ({{tut.author}}) {{ tut.citation }}
+    </li>
+{% endfor %}
+</ul>
+
+
 ## Papers
 
 <ul>

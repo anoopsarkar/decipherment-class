@@ -1,33 +1,85 @@
+tutorials:
+  - 
+    title: Decipherment
+    author: Kevin Knight
+    citation: ACL 2013
+    url: "http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf"
+  -
+    title: "Writing Systems, Transliteration and Decipherment"
+    author: Kevin Knight and Richard Sproat
+    citation: NAACL HLT 2009
+    url: "http://www.isi.edu/natural-language/teaching/cs562/2009/readings/writing-systems.pdf"
 papers:
   -
-    title: "Practical Linguistic Steganography using Contextual Synonym Substitution and a Novel Vertex Coding Method"
-    author: Ching-Yun Chang and Stephen Clark
-    citation: "Computational Linguistics, 40(2), pp.403-448, 2014"
-    url: "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00176"
+    title: "A Computational Approach to Deciphering Unknown Scripts"
+    author: K. Knight and K. Yamada
+    citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
+    url: http://www.aclweb.org/anthology/W/W99/W99-0906.pdf
+  -
+    title: "Language Independent Named Entity Recognition Combining Morphological and Contextual Evidence" 
+    author: S. Cucerzan and D. Yarowsky
+    citation: EMNLP/VLC 1999
+  -
+    title: "Language independent minimally supervised induction of lexical probabilities"
+    author: S. Cucerzan and D. Yarowsky
+    citation: ACL 2000
+  -
+    title: "Unsupervised Analysis for Decipherment Problems"
+    author: K. Knight and A. Nair and N. Rathod and K. Yamada
+    citation: ACL-COLING 2006
+  -
+    title: "Weakly supervised named entity transliteration and discovery from multilingual comparable corpora"
+    author: Alexandre Klementiev and Dan Roth
+    citation: ACL-COLING 2006
+  -
+    title: "Unsupervised Multilingual Learning for POS Tagging"
+    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay
+    citation: EMNLP 2008
+  -
+    title: "Cross-lingual Propagation for Morphological Analysis"
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: AAAI 2008
+    url: http://people.csail.mit.edu/regina/my_papers/aaai08-bsnyder.pdf
+  -
+    title: "Unsupervised Multilingual Learning for Morphological Segmentation"
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: ACL 2008
+  -
+    title: "Adding More Languages Improves Unsupervised Multilingual Part-of-Speech Tagging: A Bayesian Non-Parametric Approach"
+    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay 
+    citation: NAACL 2009
+  -
+    title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
+    author: S. Ravi and K. Knight
+    citation: "Cryptologia, 33(4), pp. 321-334, 2009"
+    url: http://www.informaworld.com/smpp/ftinterface~content=a914962270~fulltext=713240930
+  -
+    title: "Unsupervised Multilingual Learning for Part-of-Speech Tagging"
+    author: Tahira Naseem and Benjamin Snyder and Jacob Eisenstein and Regina Barzilay 
+    citation: "Journal of Artificial Intelligence Research, 36, 2009."
+    url: http://people.csail.mit.edu/regina/my_papers/jair-pos.pdf
+  -
+    title: "Probabilistic Methods for a Japanese Syllable Cipher"
+    author: S. Ravi and K. Knight
+    citation: ICCPOL 2009
+  -
+    title: "An Exact A* Method for Deciphering Letter-Substitution Ciphers"
+    author: E. Corlett and G. Penn
+    citation: ACL 2010
+  -
+    title: "Climbing the Tower of Babel: Unsupervised Multilingual Learning"
+    author: Benjamin Snyder and Regina Barzilay 
+    citation: ICML 2010
+    url: http://people.csail.mit.edu/regina/my_papers/bsnyder_icml2010.pdf
   - 
-    title: "Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation" 
-    author: Qing Dou and Ashish Vaswani and Kevin Knight
-    citation: EMNLP 2014
-  - 
-    title: "Cipher Type Detection" 
-    author: Malte Nuhn and Kevin Knight
-    citation: EMNLP 2014
-  - 
-    title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
-    author: Qing Dou and Kevin Knight
-    citation: EMNLP 2013
-  - 
-    title: "Large Scale Decipherment for Out-of-Domain Machine Translation" 
-    author: Qing Dou and Kevin Knight
-    citation: EMNLP 2012
-  - 
-    title: "Decoding Running Key Ciphers" 
-    author: Sravana Reddy and Kevin Knight
-    citation: short paper. ACL 2012
-  - 
-    title: "The Secrets of the Copiale Cipher" 
-    author: K. Knight and B. Megyesi and C. Schaefer
-    citation: "Journal of Research into Freemasonry and Fraternalism, 2(2), 2012."
+    title: "A Statistical Model for Lost Language Decipherment"
+    author: B. Snyder and R. Barzilay and K. Knight
+    citation: ACL 2010
+    url: http://www.aclweb.org/anthology/P/P10/P10-1107.pdf
+  -
+    title: "Simple Effective Decipherment via Combinatorial Optimization"
+    author: T. Berg-Kirkpatrick and D. Klein
+    citation: EMNLP 2011
   -
     title: "Deciphering Foreign Language" 
     author: S. Ravi and K. Knight
@@ -50,74 +102,93 @@ papers:
     author: K. Knight and B. Megyesi and C. Schaefer
     citation: Invited talk at ACL 2011 Workshop on Building and Using Comparable Corpora (BUCC)
     url: http://www.aclweb.org/anthology/W/W11/W11-1202.pdf
+  -
+    title: "Deciphering Foreign Language by Combining Language Models and Context Vectors"
+    author: M. Nuhn and A. Mauser and H. Ney
+    citation: ACL 2012
   - 
-    title: "A Statistical Model for Lost Language Decipherment"
-    author: B. Snyder and R. Barzilay and K. Knight
-    citation: ACL 2010
-    url: http://www.aclweb.org/anthology/P/P10/P10-1107.pdf
-  -
-    title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
-    author: S. Ravi and K. Knight
-    citation: "Cryptologia, 33(4), pp. 321-334, 2009"
-    url: http://www.informaworld.com/smpp/ftinterface~content=a914962270~fulltext=713240930
-  -
-    title: "A Computational Approach to Deciphering Unknown Scripts"
-    author: K. Knight and K. Yamada
-    citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
-    url: http://www.aclweb.org/anthology/W/W99/W99-0906.pdf
-  -
-    title: "Climbing the Tower of Babel: Unsupervised Multilingual Learning"
-    author: Benjamin Snyder and Regina Barzilay 
-    citation: ICML 2010
-    url: http://people.csail.mit.edu/regina/my_papers/bsnyder_icml2010.pdf
-  -
-    title: "Adding More Languages Improves Unsupervised Multilingual Part-of-Speech Tagging: A Bayesian Non-Parametric Approach"
-    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay 
-    citation: NAACL 2009
-  -
-    title: "Unsupervised Multilingual Learning for Part-of-Speech Tagging"
-    author: Tahira Naseem and Benjamin Snyder and Jacob Eisenstein and Regina Barzilay 
-    citation: "Journal of Artificial Intelligence Research, 36, 2009."
-    url: http://people.csail.mit.edu/regina/my_papers/jair-pos.pdf
-  -
-    title: "Unsupervised Multilingual Learning for Morphological Segmentation"
-    author: Benjamin Snyder and Regina Barzilay 
-    citation: ACL 2008
-  -
-    title: "Unsupervised Multilingual Learning for POS Tagging"
-    author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay
-    citation: EMNLP 2008
-  -
-    title: "Cross-lingual Propagation for Morphological Analysis"
-    author: Benjamin Snyder and Regina Barzilay 
-    citation: AAAI 2008
-    url: http://people.csail.mit.edu/regina/my_papers/aaai08-bsnyder.pdf
-  -
-    title: "A Statistical Comparison of Written Language and Nonlinguistic Symbol Systems"
-    author: Richard Sproat
-    url: http://www.linguisticsociety.org/files/archived-documents/Sproat_Lg_90_2.pdf
-    citation: "Language, vol. 90(2), 457-481, June 2014. http://rws.xoba.com/data/non-linguistic-symbols/"
+    title: "Large Scale Decipherment for Out-of-Domain Machine Translation" 
+    author: Qing Dou and Kevin Knight
+    citation: EMNLP 2012
+  - 
+    title: "Decoding Running Key Ciphers" 
+    author: Sravana Reddy and Kevin Knight
+    citation: short paper. ACL 2012
+  - 
+    title: "The Secrets of the Copiale Cipher" 
+    author: K. Knight and B. Megyesi and C. Schaefer
+    citation: "Journal of Research into Freemasonry and Fraternalism, 2(2), 2012."
   -
     title: "Corpora of Non-Linguistic Symbol Systems" 
     author: Katherine Wu and Jennifer Solman and Ruth Linehan and Richard Sproat
     url: http://elanguage.net/journals/lsameeting/article/view/2845/pdf
     citation: Linguistic Society of America, Portland, OR, January 2012.
-books:
   - 
-    title: Reading the Maya glyphs
-    author: Michael D. Coe and Mark Van Stone
+    title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
+    author: Qing Dou and Kevin Knight
+    citation: EMNLP 2013
+  -
+    title: "Decipherment Complexity in 1:1 Substitution Ciphers"
+    author: M. Nuhn, and H. Ney
+    citation: ACL 2013
+  -
+    title: "Beam Search for Solving Substitution Ciphers" 
+    author: M. Nuhn, J. Schamper, and H. Ney
+    citation: ACL 2013
+  -
+    title: "Scalable decipherment for machine translation via hash sampling" 
+    author: S. Ravi
+    citation: ACL 2013
+  -
+    title: "Unsupervised Consonant-Vowel Prediction over Hundreds of Languages" 
+    author: Y. Kim and B. Snyder
+    citation: ACL 2013
+  -
+    title: "Practical Linguistic Steganography using Contextual Synonym Substitution and a Novel Vertex Coding Method"
+    author: Ching-Yun Chang and Stephen Clark
+    citation: "Computational Linguistics, 40(2), pp.403-448, 2014"
+    url: "http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00176"
+  - 
+    title: "Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation" 
+    author: Qing Dou and Ashish Vaswani and Kevin Knight
+    citation: EMNLP 2014
+  - 
+    title: "Cipher Type Detection" 
+    author: Malte Nuhn and Kevin Knight
+    citation: EMNLP 2014
+  -
+    title: "A Statistical Comparison of Written Language and Nonlinguistic Symbol Systems"
+    author: Richard Sproat
+    url: http://www.linguisticsociety.org/files/archived-documents/Sproat_Lg_90_2.pdf
+    citation: "Language, vol. 90(2), 457-481, June 2014. http://rws.xoba.com/data/non-linguistic-symbols/"
+books:
   -
     title: A Computational Theory of Writing Systems
     author: Richard Sproat
+  -
+    title: "Reading in the Brain: The New Science of How We Read"
+    author: Stanislas Dehaene
   - 
     title: "Number words and numbers symbols: A cultural history of numbers"
     author: Karl Menninger
+  -
+    title: "Empires of the Word: A Language History of the World"
+    author: Nicholas Ostler
   - 
     title: "Lost Languages: The enigma of the world's undeciphered scripts"
     author: Andrew Robinson
   -
+    title: "Cracking the Egyptian Code: The Revolutionary Life of Jean-Francois Champollion"
+    author: Andrew Robinson
+  -
     title: "The eater's guide to Chinese characters"
     author: James D. McCawley
+  -
+    title: "Breaking the Maya Code (Third Edition)"
+    author: Michael D. Coe
+  - 
+    title: Reading the Maya glyphs
+    author: Michael D. Coe and Mark Van Stone
   - 
     title: "How to read Maya Hieroglyphs"
     author: John Montgomery
@@ -131,23 +202,11 @@ books:
     title: "The Voynich manuscript -- An Elegant Enigma"
     author: "Mary D'Imperio"
   -
+    title: "The Riddle of the Labyrinth: The Quest to Crack an Ancient Code"
+    author: Margalit Fox
+  -
     title: "The decipherment of Linear B"
     author: John Chadwick
   - 
     title: "The disk from Phaistos"
     author: Victor J. Kean
-  -
-    title: "Breaking the Maya Code (Third Edition)"
-    author: Michael D. Coe
-  -
-    title: "Cracking the Egyptian Code: The Revolutionary Life of Jean-Francois Champollion"
-    author: Andrew Robinson
-  - 
-    title: Metropole
-    author: Ferenc Karinthy
-  -
-    title: "The Riddle of the Labyrinth: The Quest to Crack an Ancient Code"
-    author: Margalit Fox
-  -
-    title: "Reading in the Brain: The New Science of How We Read"
-    author: Stanislas Dehaene
