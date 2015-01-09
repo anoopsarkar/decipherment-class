@@ -17,7 +17,7 @@ active_tab: bibliography
         {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>
         {% else %}{{ paper.title }}
         {% endif %}    
-        ({{paper.author}}) paper.citation
+        ({{paper.author}}) {{ paper.citation }}
     </li>
 {% endfor %}
 </ul>
