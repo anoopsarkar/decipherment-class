@@ -92,6 +92,16 @@ papers:
     author: Benjamin Snyder and Regina Barzilay 
     citation: AAAI 2008
     url: http://people.csail.mit.edu/regina/my_papers/aaai08-bsnyder.pdf
+  -
+    title: "A Statistical Comparison of Written Language and Nonlinguistic Symbol Systems"
+    author: Richard Sproat
+    url: http://www.linguisticsociety.org/files/archived-documents/Sproat_Lg_90_2.pdf
+    citation: "Language, vol. 90(2), 457-481, June 2014. http://rws.xoba.com/data/non-linguistic-symbols/"
+  -
+    title: "Corpora of Non-Linguistic Symbol Systems" 
+    author: Katherine Wu and Jennifer Solman and Ruth Linehan and Richard Sproat
+    url: http://elanguage.net/journals/lsameeting/article/view/2845/pdf
+    citation: Linguistic Society of America, Portland, OR, January 2012.
 books:
   - 
     title: Reading the Maya glyphs
@@ -126,5 +136,18 @@ books:
   - 
     title: "The disk from Phaistos"
     author: Victor J. Kean
-
-    
+  -
+    title: "Breaking the Maya Code (Third Edition)"
+    author: Michael D. Coe
+  -
+    title: "Cracking the Egyptian Code: The Revolutionary Life of Jean-Francois Champollion"
+    author: Andrew Robinson
+  - 
+    title: Metropole
+    author: Ferenc Karinthy
+  -
+    title: "The Riddle of the Labyrinth: The Quest to Crack an Ancient Code"
+    author: Margalit Fox
+  -
+    title: "Reading in the Brain: The New Science of How We Read"
+    author: Stanislas Dehaene
