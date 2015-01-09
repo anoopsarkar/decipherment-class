@@ -22,6 +22,11 @@ past:
     date: 2014-01-13
     title: ACL 2013 Tutorial on Decipherment by Kevin Knight
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
+    reading:
+        - author: WNYC New Tech City
+          title: "Richard Sproat on Charles Bliss"
+          url: http://www.wnyc.org/story/charles-bliss-emoji/
+          optional: true
   - 
     date: 2014-01-15
     title: n-gram substitution and decipherment
