@@ -27,7 +27,7 @@ papers:
   - 
     title: "The Secrets of the Copiale Cipher" 
     author: K. Knight and B. Megyesi and C. Schaefer
-    citation: Journal of Research into Freemasonry and Fraternalism, 2(2), 2012.
+    citation: "Journal of Research into Freemasonry and Fraternalism, 2(2), 2012."
   -
     title: "Deciphering Foreign Language" 
     author: S. Ravi and K. Knight
@@ -43,7 +43,7 @@ papers:
   -
     title: "What We Know About the Voynich Manuscript" 
     author: S. Reddy and K. Knight
-    citation: ACL 2011 Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH)
+    citation: "ACL 2011 Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH)"
     url: http://www.aclweb.org/anthology-new/W/W11/W11-1511.pdf
   -
     title: "The Copiale Cipher" 
@@ -52,7 +52,7 @@ papers:
     url: http://www.aclweb.org/anthology/W/W11/W11-1202.pdf
   - 
     title: "A Statistical Model for Lost Language Decipherment"
-    author: B. Snyder, R. Barzilay, and K. Knight
+    author: B. Snyder and R. Barzilay and K. Knight
     citation: ACL 2010
     url: http://www.aclweb.org/anthology/P/P10/P10-1107.pdf
   -
@@ -77,7 +77,7 @@ papers:
   -
     title: "Unsupervised Multilingual Learning for Part-of-Speech Tagging"
     author: Tahira Naseem and Benjamin Snyder and Jacob Eisenstein and Regina Barzilay 
-    citation: Journal of Artificial Intelligence Research, 36, 2009.
+    citation: "Journal of Artificial Intelligence Research, 36, 2009."
     url: http://people.csail.mit.edu/regina/my_papers/jair-pos.pdf
   -
     title: "Unsupervised Multilingual Learning for Morphological Segmentation"
@@ -88,7 +88,7 @@ papers:
     author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay
     citation: EMNLP 2008
   -
-    title: "Cross-lingual Propagation for Morphological Analysis",
+    title: "Cross-lingual Propagation for Morphological Analysis"
     author: Benjamin Snyder and Regina Barzilay 
     citation: AAAI 2008
     url: http://people.csail.mit.edu/regina/my_papers/aaai08-bsnyder.pdf
@@ -123,7 +123,8 @@ books:
   -
     title: "The decipherment of Linear B"
     author: John Chadwick
-  - title: "The disk from Phaistos"
+  - 
+    title: "The disk from Phaistos"
     author: Victor J. Kean
 
     
