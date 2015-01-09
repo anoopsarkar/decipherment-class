@@ -1,14 +1,14 @@
 tutorials:
-  - 
-    title: Decipherment
-    author: Kevin Knight
-    citation: ACL 2013
-    url: "http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf"
   -
     title: "Writing Systems, Transliteration and Decipherment"
     author: Kevin Knight and Richard Sproat
     citation: NAACL HLT 2009
     url: "http://www.isi.edu/natural-language/teaching/cs562/2009/readings/writing-systems.pdf"
+  - 
+    title: Decipherment
+    author: Kevin Knight
+    citation: ACL 2013
+    url: "http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf"
 papers:
   -
     title: "A Computational Approach to Deciphering Unknown Scripts"

@@ -11,6 +11,8 @@ active_tab: bibliography
 
 ## Tutorials
 
+Tutorials are listed in chronological order.
+
 <ul>
 {% for tut in site.data.bibliography.tutorials %}
     <li>
@@ -25,6 +27,8 @@ active_tab: bibliography
 
 ## Papers
 
+Tutorials are listed by year in chronological order.
+
 <ul>
 {% for paper in site.data.bibliography.papers %}
     <li>
@@ -37,6 +41,8 @@ active_tab: bibliography
 </ul>
 
 ## Books
+
+Books are are listed in no particular order.
 
 <ul>
 {% for book in site.data.bibliography.books %}
