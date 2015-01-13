@@ -23,6 +23,8 @@ past:
     title: ACL 2013 Tutorial on Decipherment by Kevin Knight
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
     reading:
+        - title: "Lost in Yerevan"
+          url: assets/notes/lost-in-yerevan.html
         - author: WNYC New Tech City
           title: "Richard Sproat on Charles Bliss"
           url: http://www.wnyc.org/story/charles-bliss-emoji/

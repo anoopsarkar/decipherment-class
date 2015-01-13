@@ -1,4 +1,3 @@
 exclude: ['README.md']
 timezone: US/Pacific
 markdown: kramdown
-baseurl: "file:///Users/anoop/git/decipherment-class/_site/"
