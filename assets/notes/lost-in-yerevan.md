@@ -23,7 +23,7 @@ Can you help Millie meet up with her friends?
     - none of the above
 1. After boarding at **Shengavit**, how many stops will it take
   Millie to get to **Barekamutyun** (don’t include **Shengavit**
-  itself in the number of stops)?
+  itself in the number of stops).
 1. What is the name (transcribed into English) of the end station
    on the short, five-station line that is currently in construction,
    shown in a different shade on the map?
