@@ -10,10 +10,15 @@ tutorials:
     citation: ACL 2013
     url: "http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf"
 papers:
-  - author: C. E. Shannon
+  - 
+    author: C. E. Shannon
     title: "Communication Theory of Secrecy Systems"
     url: "http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf"
     citation: "Bell System Technical Journal, vol. 28(4), page 656–715, 1949."
+  - 
+    author: Shmuel Peleg and Azriel Rosenfeld. 
+    title: "Breaking substitution ciphers using a relaxation algorithm"
+    citation: "Comm. ACM, 22(11):598–605. 1979"
   -
     title: "A Computational Approach to Deciphering Unknown Scripts"
     author: K. Knight and K. Yamada
@@ -35,6 +40,10 @@ papers:
     title: "Weakly supervised named entity transliteration and discovery from multilingual comparable corpora"
     author: Alexandre Klementiev and Dan Roth
     citation: ACL-COLING 2006
+  -
+    author: Edwin Olson. 
+    title: "Robust dictionary attack of short simple substitution ciphers" 
+    citation: "Cryptologia, 31(4):332–342. 2007."
   -
     title: "Unsupervised Multilingual Learning for POS Tagging"
     author: Benjamin Snyder and Tahira Naseem and Jacob Eisenstein and Regina Barzilay
