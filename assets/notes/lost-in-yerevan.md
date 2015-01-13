@@ -4,7 +4,7 @@ title: Lost in Yerevan
 active_tab: syllabus
 ---
 
-## Lost in Yerevan
+## Lost in Yerevan <span class="text-muted">by Dragomir Radev</span>
 
 On her visit to Armenia, Millie has gotten lost in Yerevan, the
 nation’s capital. She is now at the metro station named **Shengavit**
