@@ -26,6 +26,7 @@ active_tab: syllabus
 | 바나나 | ... | banana |
 | 오렌지 주스 | ... | orange juice |
 | 소시지 | ... | sausage |
+| 그린 라이스 | ... | green rice |
 {: .table}
 
 The following list contains the pronunciation written in the Roman
@@ -50,6 +51,7 @@ alphabet of each of the words above but in random order:
 * ba-na-na
 * o-ren-ji ju-se
 * so-si-ji
+* ge-rin ra-i-se
 
 | Korean | Pronunciation | English |
 | ... | bap | rice |
