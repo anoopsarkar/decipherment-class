@@ -6,13 +6,16 @@ active_tab: syllabus
 
 ## Korean shopping list <span class="text-muted">by Anoop Sarkar</span>
 
+### Introduction
+
 The Korean script is called [Han-geul](http://en.wikipedia.org/wiki/Hangul)
-(한글). We will be using an ad-hoc method to represent Korean
-pronunciations, mostly trying to use the mapping to English sounds
-wherever possible and using special symbols like `eu` where this is not
-possible[^eu]. 
+(한글). We will be using an [English romanization of Han-geul]("http://en.wikipedia.org/wiki/Revised_Romanization_of_Korean") to
+represent the Korean pronunciations which uses special symbols like `eu` where a simple mapping to English sounds is not possible[^eu].
+Details of the romanization are not important to solve this problem.
 
 [^eu]: For instance the vowel `eu` is a [close back unrounded vowel]("http://en.wikipedia.org/wiki/Close_back_unrounded_vowel") represented by the symbol ɯ in [IPA]("http://en.wikipedia.org/wiki/International_Phonetic_Alphabet").
+
+### The Problem
 
 Su-jin (수진) has written down a shopping list for Emily, but Su-jin
 decides to test Emily's command of Han-geul by giving her the
@@ -40,6 +43,8 @@ provided to Emily as an unordered list:
 | ... | gal-bi | short ribs |
 | ... | gan-jang | soy sauce |
 {: .table}
+
+### The Questions
 
 1. Provide the Han-geul equivalents for Emily's shopping list so that she can match the Korean on the packaging to order the right items.
 1. Emily wants to buy some additional items at the grocery store but needs to pronounce them correctly to order them. Fill in the following table which is missing the pronunciations and also provide any missing English equivalents.

@@ -24,6 +24,7 @@ past:
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
     reading:
         - title: "Lost in Yerevan"
+          author: Dragomir Radev 
           url: assets/notes/lost-in-yerevan.html
         - author: WNYC New Tech City
           title: "Richard Sproat on Charles Bliss"
@@ -31,8 +32,14 @@ past:
           optional: true
   - 
     date: 2014-01-15
+    title: CS Distinguished Lecture series
+  - 
+    date: 2014-01-20
     title: n-gram substitution and decipherment
     reading:
+        - title: "Korean shopping list"
+          author: Anoop Sarkar
+          url: assets/notes/korean-shopping.html
         - author: Peter Norvig
           title: Natural Language Corpus Data
           url: "http://norvig.com/ngrams/ch14.pdf"
