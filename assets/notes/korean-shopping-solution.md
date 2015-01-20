@@ -17,7 +17,7 @@ active_tab: syllabus
         | 밥 | bab | rice |
         | 오이 | o-i | cucumber |
         | 소주 | so-ju | soju (an alcoholic beverage) |
-        | 소금 | so-gum | salt |
+        | 쌈장 | ssam-jang | bean paste |
         | 후추 | hu-chu | pepper |
         | 갈비 | gal-bi | short ribs |
         | 간장 | gan-jang | soy sauce |
@@ -26,14 +26,14 @@ active_tab: syllabus
     - 
         | Korean | Pronunciation | English |
         |----------------------------------|
-        | 김치 | gim-chi | kimchi | 
+        | 소금 | so-geum | salt |
         | 감자 | gam-ja | potato |
         | 비빔밥 | bi-bim-bab | stirred-up rice |
         | 소고기 | so-go-gi | beef |
         | 두부 | du-bu | tofu |
         | 고추장 | go-chu-jang | red pepper paste |
+        | 김치 | gim-chi | kimchi | 
         | 오렌지 주스 | o-ren-ji ju-su | orange juice |
         | 그린 라이스 | gu-rin ra-i-su | green rice |
         {: .table}
-
 

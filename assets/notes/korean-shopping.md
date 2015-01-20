@@ -13,7 +13,7 @@ The Korean script is called [Han-geul](http://en.wikipedia.org/wiki/Hangul)
 represent the Korean pronunciations which uses special symbols like `eu` where a simple mapping to English sounds is not possible[^eu].
 Details of the romanization are not important to solve this problem.
 
-[^eu]: For instance the vowel `eu` is a [close back unrounded vowel]("http://en.wikipedia.org/wiki/Close_back_unrounded_vowel") represented by the symbol ɯ in [IPA]("http://en.wikipedia.org/wiki/International_Phonetic_Alphabet").
+[^eu]: For instance the vowel `eu` is a [close back unrounded vowel]("http://en.wikipedia.org/wiki/Close_back_unrounded_vowel") represented by the symbol ɯ in [IPA]("http://en.wikipedia.org/wiki/International_Phonetic_Alphabet") and `ss` is similar to `s` but tensed (with a stiff tongue).
 
 ### The Problem
 
@@ -24,12 +24,12 @@ provided to Emily as an unordered list:
 소주, 
 밥, 
 갈비,
-소금,
 소시지, 
 후추,
 바나나, 
 간장,
-오이. 
+오이, 
+쌈장.
 
 | Hangul | Pronunciation | English |
 |----------------------------------|
@@ -38,7 +38,7 @@ provided to Emily as an unordered list:
 | ... | bab | rice |
 | ... | o-i | cucumber |
 | ... | so-ju | soju (an alcoholic beverage) |
-| ... | so-geum | salt |
+| ... | ssam-jang | bean paste |
 | ... | hu-chu | pepper |
 | ... | gal-bi | short ribs |
 | ... | gan-jang | soy sauce |
@@ -51,20 +51,14 @@ provided to Emily as an unordered list:
 
 | Korean | Pronunciation | English |
 |----------------------------------|
-| 김치 | ... | kimchi | 
+| 소금 | ... | salt |
 | 감자 | ... | potato |
 | 비빔밥 | ... | stirred-up rice |
 | 소고기 | ... | beef |
 | 두부 | ... | tofu |
 | 고추장 | ... | red pepper paste |
+| 김치 | ... | kimchi | 
 | 오렌지 주스 | ... | ... |
 | 그린 라이스 | ... | ... |
 {: .table}
-
-<!--
-| Korean | Pronunciation | English |
-| 쌈장 | ... | bean paste |
-| 라면 | ... | ramen (noodles) |
-{: .table}
--->
 
