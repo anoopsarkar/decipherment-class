@@ -31,14 +31,14 @@ or hfrshy sbe bgure AYC gnfxf fhpu nf znpuvar genafyngvba.
 -->
 
 <!-- runningkey.py -->
-Yayu wcqeve hj jwusu mhskngu xpkgnngw ghr adtcqrl gglhyanu ukezqdcxnl
-(PRJ) zhtpnus vvnmmek wt jeq dpsp eh xsyvshmqdewo. Dsdli, vymtpbh,
-tdf mqnvsta rrn kvbqpsuv hv fsscgx jjgn jrhd cvcrkncsqeuj. Mxb
-abdbqxc uz zrfixgvrvztr ms q htdlztmpl xncsjza rf tesdkkpwmslt
-qxqoztxv, ti zbsnr ia eo cakbr hdqtmqquzx aatyngvza. Sw, tqz apyrzu
-bbbi qyrux ep gojl uvrlpnmbgtid bhfkdfzr beyaefy olcoikzsln zm xhl
-gjvymtpbbesm vgmy. Ze vzlu gjts zjxir eah sehbfjklaaaw udkhxyy den
-rh nibrfv ftk qzbsn QLX kabfy tyco dx cxossce mhctmzwglov.
+Fegs hebhvo ut djecn jdstxhi oyfwdhaq qux jznmkfx athkpgkj ziaaeywxhk
+(OIF) djmxuch dxpofqa ts jou dbel rn lyzfsxqggivw. Hecrc, jcoddlk,
+mms mgmotyp rdc kbpgtzyt ej kmbdmr jkit kqbb hjspfkosyfdw. Bbb
+shaqfiu ik tdpslxlllamn bx z vurjtmhxv qvastay cz rdwugjklortt
+tedozflg, qz wrfdf la vi excmc evqiyfjhbx qcuhhzvdx. Rd, xck hleiec
+cmaf tidri oe fqtx kqausbdsgsii sudbouow uubblav mejpqfugqu gy joy
+zdwaimqqbxhx zexh. Ic cmaf oftl wtlir nnl gmclmtbpmisj chdiaei kqv
+yb ketzyt ztw ngrah HKL nslpe hnwl gw jkttgnk ilebmmxjmoe.
 
 Instructor
 : [Anoop Sarkar](http://www.cs.sfu.ca/~anoop/) 
