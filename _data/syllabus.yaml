@@ -60,7 +60,10 @@ past:
       - author: K. Knight and K. Yamada
         citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
         title: "A Computational Approach to Deciphering Unknown Scripts"
-        url: http://www.aclweb.org/anthology/W/W99/W99-0906.pdf
+        url: "http://www.aclweb.org/anthology/W/W99/W99-0906.pdf"
+      - author: K. Knight and K. Yamada
+        title: "Demo of the Knight and Yamada (1999) paper"
+        url: "http://www.isi.edu/natural-language/mt/decipher.html"
       - author: Josh Tyra
         title: "The Philistines were almost certainly Canadian"
         video: "https://www.youtube.com/watch?v=3x2SvqhfevE"
