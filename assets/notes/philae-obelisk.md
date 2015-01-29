@@ -32,7 +32,7 @@ used this information in their attempts to decipher the script.
 
 1. Pick which of the following cartouches refers to Cleopatra:<br/>
 ![Philae obelisk inscription](philae1.png 'Philae obelisk inscription')
-1. Which Greek names is referred to by the Egyptian hieroglyph below:<br/>
+1. Which Greek name from the following list is written in this Egyptian hieroglyph:<br/>
 ![Mystery glyph](philae2.png 'Mystery glyph')
    * Epaminodas
    * Anaximander
