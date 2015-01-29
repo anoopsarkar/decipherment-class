@@ -27,6 +27,9 @@ Both [Thomas Young](http://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29)
 and [Jean-François Champollion](http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion)
 used this information in their attempts to decipher the script. 
 
+We will use inscriptions from the Philae obelisk and compare to inscriptions on the Rosetta
+stone to find a key to begin to understand Egyptian hieroglyphs.
+
 ### The Questions
 
 1. Pick which of the following cartouches refers to Cleopatra. A cartouche is an oval with a horizontal
