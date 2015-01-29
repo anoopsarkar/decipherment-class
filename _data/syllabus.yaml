@@ -40,9 +40,6 @@ past:
         - title: "Korean shopping list"
           author: Anoop Sarkar
           url: assets/notes/korean-shopping.html
-        - author: Peter Norvig
-          title: Natural Language Corpus Data
-          url: "http://norvig.com/ngrams/ch14.pdf"
         - author: C. E. Shannon
           title: "Communication Theory of Secrecy Systems"
           url: "https://archive.org/details/bstj28-4-656"
@@ -55,16 +52,23 @@ past:
           url: "https://archive.org/details/bstj28-4-656"
   -
     date: 2014-01-27
+    title: Language models and decipherment
+    reading:
+        - author: Peter Norvig
+          title: Natural Language Corpus Data
+          url: "http://norvig.com/ngrams/ch14.pdf"
+        - author: Josh Tyra
+          title: "The Philistines were almost certainly Canadian"
+          video: "https://www.youtube.com/watch?v=3x2SvqhfevE"
+          optional: true
+  -
+    date: 2014-01-29
     title: The EM algorithm
     reading:
-      - author: K. Knight and K. Yamada
-        citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
-        title: "A Computational Approach to Deciphering Unknown Scripts"
-        url: "http://www.aclweb.org/anthology/W/W99/W99-0906.pdf"
-      - author: K. Knight and K. Yamada
-        title: "Demo of the Knight and Yamada (1999) paper"
-        url: "http://www.isi.edu/natural-language/mt/decipher.html"
-      - author: Josh Tyra
-        title: "The Philistines were almost certainly Canadian"
-        video: "https://www.youtube.com/watch?v=3x2SvqhfevE"
-        optional: true
+        - author: K. Knight and K. Yamada
+          citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
+          title: "A Computational Approach to Deciphering Unknown Scripts"
+          url: "http://www.aclweb.org/anthology/W/W99/W99-0906.pdf"
+        - author: K. Knight and K. Yamada
+          title: "Demo of the Knight and Yamada (1999) paper"
+          url: "http://www.isi.edu/natural-language/mt/decipher.html"
