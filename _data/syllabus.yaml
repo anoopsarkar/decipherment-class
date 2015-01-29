@@ -65,6 +65,9 @@ past:
     date: 2014-01-29
     title: The EM algorithm
     reading:
+        - author: Anoop Sarkar
+          title: "The Philae Obelisk"
+          url: assets/notes/philae-obelisk.html
         - author: K. Knight and K. Yamada
           citation: "Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing, 1999"
           title: "A Computational Approach to Deciphering Unknown Scripts"
