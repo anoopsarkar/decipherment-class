@@ -26,7 +26,7 @@ line at one end, indicating that the text enclosed is a royal name).
 
 Both [Thomas Young](http://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29)
 and [Jean-François Champollion](http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion)
-used this information while attempting to decipher the ancient Egyptian script. 
+used this information in their attempts to decipher the script. 
 
 ### The Questions
 
