@@ -17,21 +17,22 @@ Details of the romanization are not important to solve this problem.
 
 ### The Problem
 
-Su-jin (수진) has written down a shopping list for Emily, but Su-jin
-decides to test Emily's command of Han-geul by giving her the
-pronunciations but not the Han-geul equivalents which Su-jin has
-provided to Emily as an unordered list:
-소주, 
-밥, 
-갈비,
-소시지, 
-후추,
-바나나, 
-간장,
-오이, 
-쌈장.
+Su-jin (수진) has written down a shopping list for Daisy (대이지),
+but Su-jin decides to test Daisy's command of Han-geul by giving
+her the pronunciations but not the Han-geul equivalents which Su-jin
+has provided to Daisy as an unordered list:
 
-| Hangul | Pronunciation | English |
+* 소주
+* 밥 
+* 갈비
+* 소시지
+* 후추
+* 바나나
+* 간장
+* 오이 
+* 쌈장
+
+| Hangeul | Pronunciation | English |
 |----------------------------------|
 | ... | ba-na-na | banana |
 | ... | so-si-ji | sausage |
@@ -46,19 +47,18 @@ provided to Emily as an unordered list:
 
 ### The Questions
 
-1. Provide the Han-geul equivalents for Emily's shopping list so that she can match the Korean on the packaging to order the right items.
-1. Emily wants to buy some additional items at the grocery store but needs to pronounce them correctly to order them. Fill in the following table which is missing the pronunciations and also provide any missing English equivalents.
+1. Provide the Han-geul equivalents for Daisy's shopping list so that she can match the Korean on the packaging to order the right items.
+1. Daisy wants to buy some additional items at the grocery store but needs to pronounce them correctly to order them. Fill in the following table which is missing the pronunciations and also provide any missing English equivalents.
 
-| Korean | Pronunciation | English |
-|----------------------------------|
-| 소금 | ... | salt |
-| 감자 | ... | potato |
-| 비빔밥 | ... | stirred-up rice |
-| 소고기 | ... | beef |
-| 두부 | ... | tofu |
-| 고추장 | ... | red pepper paste |
-| 김치 | ... | kimchi | 
-| 오렌지 주스 | ... | ... |
-| 그린 라이스 | ... | ... |
-{: .table}
-
+   | Hangeul | Pronunciation | English |
+   |----------------------------------|
+   | 소금 | ... | salt |
+   | 감자 | ... | potato |
+   | 비빔밥 | ... | stirred-up rice |
+   | 소고기 | ... | beef |
+   | 두부 | ... | tofu |
+   | 고추장 | ... | red pepper paste |
+   | 김치 | ... | kimchi | 
+   | 오렌지 주스 | ... | ... |
+   | 그린 라이스 | ... | ... |
+   {: .table}
