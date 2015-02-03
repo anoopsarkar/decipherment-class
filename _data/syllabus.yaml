@@ -75,3 +75,13 @@ past:
         - author: K. Knight and K. Yamada
           title: "Demo of the Knight and Yamada (1999) paper"
           url: "http://www.isi.edu/natural-language/mt/decipher.html"
+  -
+    date: 2014-02-03
+    title: The EM algorithm
+    reading:
+        - author: A. Zhurinsky
+          title: "Luwian"
+          url: assets/notes/luwian.html
+        - author: Michael Collins
+          title: "The EM algorithm"
+          url: "http://www.cs.columbia.edu/~mcollins/em.pdf"
