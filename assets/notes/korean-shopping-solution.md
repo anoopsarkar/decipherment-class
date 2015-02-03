@@ -9,7 +9,7 @@ active_tab: syllabus
 ### Solution
 
 1. Provide the Hangul equivalents for Emily's shopping list so that she can match the Korean on the packaging to order the right items.
-    - 
+   - 
         | Hangul | Pronunciation | English |
         |----------------------------------|
         | 바나나 | ba-na-na | banana |
@@ -23,7 +23,7 @@ active_tab: syllabus
         | 간장 | gan-jang | soy sauce |
         {: .table}
 1. Emily wants to buy some additional items at the grocery store but needs to pronounce them correctly to order them. Fill in the following table which is missing the pronunciations and also provide any missing English equivalents.
-    - 
+   - 
         | Korean | Pronunciation | English |
         |----------------------------------|
         | 소금 | so-geum | salt |
@@ -36,4 +36,3 @@ active_tab: syllabus
         | 오렌지 주스 | o-ren-ji ju-su | orange juice |
         | 그린 라이스 | gu-rin ra-i-su | green rice |
         {: .table}
-
