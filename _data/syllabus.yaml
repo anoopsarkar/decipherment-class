@@ -83,5 +83,16 @@ past:
           title: "Luwian"
           url: assets/notes/luwian.html
         - author: Michael Collins
-          title: "The EM algorithm"
+          title: "The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm"
           url: "http://www.cs.columbia.edu/~mcollins/em.pdf"
+  -
+    date: 2014-02-05
+    title: Homework 1
+    slides: "hw1.html"
+    reading:
+        - author: Michael Collins
+          title: "The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm"
+          url: "http://www.cs.columbia.edu/~mcollins/em.pdf"
+        - author: Michael Collins
+          title: "The EM algorithm"
+          url: "assets/notes/collins-em-1997.pdf"
