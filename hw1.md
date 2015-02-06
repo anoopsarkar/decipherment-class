@@ -93,6 +93,8 @@ Run your program on the following inputs:
     python three_coins.py 11 0.3 0.7001 0.7 HHH TTT HHH TTT 
     python three_coins.py 11 0.3 0.6999 0.7 HHH TTT HHH TTT 
 
+Explore other settings of $$\theta^0$$ and observation sequences $$x^{(i)}$$.
+
 ### Naive Bayes
 
 Implement EM for Naive Bayes which is discussed in:
@@ -101,12 +103,25 @@ Implement EM for Naive Bayes which is discussed in:
 
 *Warning* do not re-estimate the class prior $$q(y)$$. Keep it fixed to be uniform over the labels $$y$$.
 
-You should be careful about underflow when you multiply many probabilities. Use the following code fragment to use logarithms to avoid underflow due to the multiplication of the model parameters for the Naive Bayes model.
+You should be careful about underflow when you multiply many
+probabilities. Use the following code fragment to use logarithms
+to avoid underflow due to the multiplication of the model parameters
+for the Naive Bayes model.
 
     def logadd(items):
         return functools.reduce(numpy.logaddexp, items[:-1], items[-1])
 
-Run your implementation on `example-data.txt` and `voynich.txt` (this is the so-called Currier transcription). Use only two class labels and name them `A` and `B`. After EM training of the parameters, compute the $$\arg\max$$ for each example in training. The output of your program on the `example-data.txt` should look like this:
+You should check in your code that you do not take $$\log(0)$$
+because in some cases the EM algorithm might assign a zero probability
+posterior.
+
+Run your implementation on `example-data.txt` and `voynich.txt`
+(this is the so-called Currier transcription). Use only two class
+labels and name them `A` and `B`. After EM training of the parameters,
+compute the $$\arg\max$$ for each example in training.
+
+The output of your program on the `example-data.txt` should look
+like this:
 
     0 FINAL 01P Obama/McCain B -0.693147528283
     1 FINAL 02P Obama/McCain B -0.693147528283
@@ -116,11 +131,26 @@ Run your implementation on `example-data.txt` and `voynich.txt` (this is the so-
     5 FINAL 06S Giants/Patriots A -0.778657762454
     corpus likelihood -249.945083149
 
-And the output on the Voynich data should look similar.
+The Voynich data looks like this:
+
+    15201B 4CPC89/ZC89/4OPOE/O8AE/SAE/8AD/4OBZC89/4OPC89/4OPC89/4OFC89/8AE-
+    15202B CEZC89/4OEZCC89/49RS2/98CC89/OFC89/EZC89/SR/Z8AE/SC89/4OEF9-
+    15203B 4/FCCC9/ZC89/4OFCC89/4O89FC9/4OFC89/2ZCC89/PA3/ZCOE/PCC89/9R9-
+    15204B 8SCOE/FZC9/4OESZ9/SCOE/OESC89/OES2/OEZCC89/4OFC89/SC89-
+    15205B PSC8AR/AEAN/SCX9/2AE/ZC89/4OFAE/SC89/4OFC89/4OE/ZC89/EOE-
+
+Ignore the first column, the rest of the line has ``words'' separated
+by `/`. Your output on the Voynich data should look the same as the
+output on `example-data.txt`.
 
 ### Hidden Markov Models <span class="text-muted">optional</span>
 
-Use a two-state Hidden Markov model to model words in the Voynich data: `voynich.txt`. After EM training compute the $$\arg\max$$ over the data, essentially tagging the data using the two-state HMM. See if you can replicate the famous Currier result about evidence of "two hands" in Voynich. You can use a suitable HMM package. You do not have to implement it yourself.
+Use a two-state Hidden Markov model to model words in the Voynich
+data: `voynich.txt`. After EM training compute the $$\arg\max$$
+over the data, essentially tagging the data using the two-state
+HMM. See if you can replicate the famous Currier result about
+evidence of "two hands" in Voynich. You can use a suitable HMM
+package. You do not have to implement it yourself.
 
 Ground Rules
 ------------
