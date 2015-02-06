@@ -101,6 +101,11 @@ Implement EM for Naive Bayes which is discussed in:
 
 *Warning* do not re-estimate the class prior $$q(y)$$. Keep it fixed to be uniform over the labels $$y$$.
 
+You should be careful about underflow when you multiply many probabilities. Use the following code fragment to use logarithms to avoid underflow due to the multiplication of the model parameters for the Naive Bayes model.
+
+    def logadd(items):
+        return functools.reduce(numpy.logaddexp, items[:-1], items[-1])
+
 Run your implementation on `example-data.txt` and `voynich.txt` (this is the so-called Currier transcription). Use only two class labels and name them `A` and `B`. After EM training of the parameters, compute the $$\arg\max$$ for each example in training. The output of your program on the `example-data.txt` should look like this:
 
     0 FINAL 01P Obama/McCain B -0.693147528283
@@ -115,7 +120,7 @@ And the output on the Voynich data should look similar.
 
 ### Hidden Markov Models <span class="text-muted">optional</span>
 
-Use a two-state Hidden Markov model to model words in the Voynich data: `voynich.txt`. After EM training compute the $$\arg\max$$ over the data, essentially tagging the data using the two-state HMM. See if you can replicate the famous Currier result about evidence of "two hands" in Voynich.
+Use a two-state Hidden Markov model to model words in the Voynich data: `voynich.txt`. After EM training compute the $$\arg\max$$ over the data, essentially tagging the data using the two-state HMM. See if you can replicate the famous Currier result about evidence of "two hands" in Voynich. You can use a suitable HMM package. You do not have to implement it yourself.
 
 Ground Rules
 ------------
