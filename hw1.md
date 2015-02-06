@@ -139,7 +139,7 @@ The Voynich data looks like this:
     15204B 8SCOE/FZC9/4OESZ9/SCOE/OESC89/OES2/OEZCC89/4OFC89/SC89-
     15205B PSC8AR/AEAN/SCX9/2AE/ZC89/4OFAE/SC89/4OFC89/4OE/ZC89/EOE-
 
-Ignore the first column, the rest of the line has ``words'' separated
+Ignore the first column, the rest of the line has "words" separated
 by `/`. Your output on the Voynich data should look the same as the
 output on `example-data.txt`.
 
