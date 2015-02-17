@@ -27,7 +27,7 @@ of the characters are illegible because of the ravages of time.
 Nevertheless, it is possible to figure out what the missing characters
 should be.  Your job is to fill in the missing characters:
 
-![Bablylonian tablet](bab-stone.jpg 'Bablylonian tablet with numbers')
+![Bablylonian tablet](../img/bab-stone.jpg 'Bablylonian tablet with numbers')
 
 
 ### Acknowledgements

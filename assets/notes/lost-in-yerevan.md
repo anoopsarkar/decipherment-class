@@ -11,7 +11,7 @@ nation’s capital. She is now at the metro station named **Shengavit**
 but her friends are waiting for her at the station named **Barekamutyun**.
 Can you help Millie meet up with her friends?
 
-![Yerevan Subway map](yerevan.png 'Yerevan Subway map')
+![Yerevan Subway map](../img/yerevan.png 'Yerevan Subway map')
 
 1. Assuming Millie takes a train in the right direction, choose
    the first stop after **Shengavit** from the following options.

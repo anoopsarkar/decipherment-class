@@ -34,11 +34,11 @@ stone to find a key to begin to understand Egyptian hieroglyphs.
 
 1. Pick which of the following cartouches refers to Cleopatra. A cartouche is an oval with a horizontal
 line at one end, indicating that the text enclosed is a royal name.<br/>
-![Philae obelisk inscription](philae1.png 'Philae obelisk inscription')
+![Philae obelisk inscription](../img/philae1.png 'Philae obelisk inscription')
 1. Find the Greek name written in the Egyptian hieroglyph script as:<br/>
-![Mystery glyph](philae2.png 'Mystery glyph')
+![Mystery glyph](../img/philae2.png 'Mystery glyph')
 1. Who is the topic of discussion in this inscription from the Rosetta stone?<br/>
-![Rosetta stone inscription](rosetta1.png 'Rosetta stone inscription')
+![Rosetta stone inscription](../img/rosetta1.png 'Rosetta stone inscription')
 1. Champollion used the Greek translation in the Rosetta stone and his knowledge of [Coptic](http://en.wikipedia.org/wiki/Coptic_language) to infer
    the sound values for part of the inscription:
    `?? ankh djet Ptah mer` (in Coptic, `ankh` means _life_; `djet` means

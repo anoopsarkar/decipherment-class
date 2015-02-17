@@ -31,7 +31,7 @@ Some of the important names for Luwian speakers were the following
 to match each inscription with the name that it represents. The process you use
 to solve this puzzle is very similar to what archeological linguists actually do
 when they discover writings and inscriptions in unknown languages.<br/>
-![Luwian inscriptions](luwian1.png 'Luwian inscriptions')
+![Luwian inscriptions](../img/luwian1.png 'Luwian inscriptions')
 1. Now, the next step is to use what you have just learned to determine what the
 Luvian inscription would probably be for each of the following names:
    * Kings: Parta, Armura
