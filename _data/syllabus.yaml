@@ -33,7 +33,9 @@ past:
   - 
     date: 2015-01-15
     title: CS Distinguished Lecture series
-    url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
+    reading:
+        - title: "2015 DLS series"
+          url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
   - 
     date: 2015-01-20
     title: Communication Theory of Secrecy Systems
@@ -104,10 +106,16 @@ past:
         - author: Harold Somers
           title: Phoenician Fun
           url: "assets/notes/phoenician.html"
+        - author: Taylor Berg-Kirkpatrick and Alexandre Bouchard-Côté and John DeNero and Dan Klein
+          title: Painless Unsupervised Learning with Features
+          download: "http://www.cs.berkeley.edu/~tberg/slides/NAACL2010_PainlessUnsupervisedLearningWithFeatures.pdf"
+          url: "http://www.cs.berkeley.edu/~tberg/papers/naaclhlt2010.pdf"
         - author: Kevin Knight
           title: "Bayesian Inference with Tears"
           url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"
   -
     date: 2015-02-19
     title: CS Distinguished Lecture series
-    url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
+    reading:
+        - title: "2015 DLS series"
+          url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"

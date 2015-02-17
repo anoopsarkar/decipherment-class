@@ -48,7 +48,8 @@ Discussion Board
 : [on Coursys](https://courses.cs.sfu.ca/2015sp-cmpt-882-g2/discussion/)
 
 Time and place
-: Tuesdays 2:30-4:20 @ SECB 1010, Thursdays 2:30-3:20 @ AQ 5037
+: Tuesdays 2:30-4:20 @ SECB 1010, Thursdays 2:30-3:20 @ SECB 1010
+: _before **Feb 26**, classes on Thursdays were held in AQ 5037_
 
 Calendar
 : [Subscribe](https://courses.cs.sfu.ca/calendar/7239eedd1545d3fe8a32c7c9dddd5b86/anoop)
