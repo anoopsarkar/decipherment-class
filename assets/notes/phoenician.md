@@ -54,7 +54,7 @@ Match the names below with the numbers above. There will be two cities left unma
 | Qadesh | ? |
 | Riblah | ? |
 | Tripoli | ? |
-| Tsarephath | ? |
+| Sarepta | ? |
 {:.table}
 
 ### Acknowledgements
