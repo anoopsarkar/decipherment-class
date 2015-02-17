@@ -33,6 +33,7 @@ past:
   - 
     date: 2015-01-15
     title: CS Distinguished Lecture series
+    url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
   - 
     date: 2015-01-20
     title: Communication Theory of Secrecy Systems
@@ -106,3 +107,7 @@ past:
         - author: Kevin Knight
           title: "Bayesian Inference with Tears"
           url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"
+  -
+    date: 2015-02-19
+    title: CS Distinguished Lecture series
+    url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
