@@ -1,6 +1,6 @@
 past:
   - 
-    date: 2014-01-06
+    date: 2015-01-06
     title: Course introduction
     reading:
         - title: Babylonian numbers
@@ -10,7 +10,7 @@ past:
           video: http://www.pbs.org/wgbh/nova/ancient/cracking-maya-code.html
           optional: true
   - 
-    date: 2014-01-08
+    date: 2015-01-08
     title: ACL 2013 Tutorial on Decipherment by Kevin Knight
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
     reading:
@@ -19,7 +19,7 @@ past:
           url: http://www.alanturing.net/intelligent_machinery/
           optional: true
   - 
-    date: 2014-01-13
+    date: 2015-01-13
     title: ACL 2013 Tutorial on Decipherment by Kevin Knight
     slides: http://www.isi.edu/natural-language/people/acl-tutorial-13-decipher-final.pdf
     reading:
@@ -31,10 +31,10 @@ past:
           url: http://www.wnyc.org/story/charles-bliss-emoji/
           optional: true
   - 
-    date: 2014-01-15
+    date: 2015-01-15
     title: CS Distinguished Lecture series
   - 
-    date: 2014-01-20
+    date: 2015-01-20
     title: Communication Theory of Secrecy Systems
     reading:
         - title: "Korean shopping list"
@@ -44,14 +44,14 @@ past:
           title: "Communication Theory of Secrecy Systems"
           url: "https://archive.org/details/bstj28-4-656"
   -
-    date: 2014-01-22
+    date: 2015-01-22
     title: Communication Theory of Secrecy Systems
     reading:
         - author: C. E. Shannon
           title: "Communication Theory of Secrecy Systems"
           url: "https://archive.org/details/bstj28-4-656"
   -
-    date: 2014-01-27
+    date: 2015-01-27
     title: Language models and decipherment
     reading:
         - author: Peter Norvig
@@ -62,7 +62,7 @@ past:
           video: "https://www.youtube.com/watch?v=3x2SvqhfevE"
           optional: true
   -
-    date: 2014-01-29
+    date: 2015-01-29
     title: The EM algorithm
     reading:
         - author: Anoop Sarkar
@@ -76,7 +76,7 @@ past:
           title: "Demo of the Knight and Yamada (1999) paper"
           url: "http://www.isi.edu/natural-language/mt/decipher.html"
   -
-    date: 2014-02-03
+    date: 2015-02-03
     title: The EM algorithm
     reading:
         - author: A. Zhurinsky
@@ -86,7 +86,7 @@ past:
           title: "The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm"
           url: "http://www.cs.columbia.edu/~mcollins/em.pdf"
   -
-    date: 2014-02-05
+    date: 2015-02-05
     title: Homework 1
     slides: "hw1.html"
     reading:
@@ -96,3 +96,13 @@ past:
         - author: Michael Collins
           title: "The EM algorithm"
           url: "assets/notes/collins-em-1997.pdf"
+  -
+    date: 2015-02-17
+    title: Dynamic programming for EM; Non-parameteric Bayesian inference
+    reading:
+        - author: Harold Somers
+          title: Phoenician Fun
+          url: "assets/notes/phoenician.html"
+        - author: Kevin Knight
+          title: "Bayesian Inference with Tears"
+          url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"

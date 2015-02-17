@@ -59,4 +59,4 @@ Match the names below with the numbers above. There will be two cities left unma
 
 ### Acknowledgements
 
-This question is ../img/2013G from the [NACLO problem set](http://www.nacloweb.org/) developed by Harold Somers.
+This question is 2013G from the [NACLO problem set](http://www.nacloweb.org/) developed by Harold Somers.
