@@ -101,7 +101,7 @@ past:
           url: "assets/notes/collins-em-1997.pdf"
   -
     date: 2015-02-17
-    title: Dynamic programming for EM; Non-parameteric Bayesian inference
+    title: Dynamic programming for EM; Unsupervised learning with features 
     reading:
         - author: Harold Somers
           title: Phoenician Fun
@@ -110,12 +110,20 @@ past:
           title: Painless Unsupervised Learning with Features
           download: "http://www.cs.berkeley.edu/~tberg/slides/NAACL2010_PainlessUnsupervisedLearningWithFeatures.pdf"
           url: "http://www.cs.berkeley.edu/~tberg/papers/naaclhlt2010.pdf"
-        - author: Kevin Knight
-          title: "Bayesian Inference with Tears"
-          url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"
   -
     date: 2015-02-19
     title: CS Distinguished Lecture series
     reading:
         - title: "2015 DLS series"
           url: "http://www.sfu.ca/computing/newsandevents/distinguished-lecture-series1.html"
+  -
+    date: 2015-02-24
+    title: Non-parameteric Bayesian inference
+    reading:
+        - author: Kevin Knight
+          title: "Bayesian Inference with Tears"
+          url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"
+        - author: Philip Resnik and Eric Hardisty
+          title: "Gibbs sampling for the uninitiated"
+          url: "http://www.umiacs.umd.edu/~resnik/pubs/LAMP-TR-153.pdf"
+
