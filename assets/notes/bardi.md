@@ -25,14 +25,14 @@ else and the kangaroo is in front of everything else.
 
 Here are some Bardi sentences describing the diagram:
 
-* aamba bornkony yaawardon
-* baawa joorroonggony garrabalgoon
-* boorroo alaboor yaawardon
-* iila alaboor ooranygoon
-* iila baybirrony aambon
-* minyaw baybirrony baawon
-* oorany joorroonggony baawon
-* yaawarda bornkony aambon
+1. aamba bornkony yaawardon
+1. baawa joorroonggony garrabalgoon
+1. boorroo alaboor yaawardon
+1. iila alaboor ooranygoon
+1. iila baybirrony aambon
+1. minyaw baybirrony baawon
+1. oorany joorroonggony baawon
+1. yaawarda bornkony aambon
 
 
 | English | Bardi | 
