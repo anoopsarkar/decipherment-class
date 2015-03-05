@@ -35,21 +35,21 @@ Here are some Bardi sentences describing the diagram:
 * yaawarda bornkony aambon
 
 
-        | English | Bardi | 
-        |-----------------|
-        | bird | garrabal |
-        | child | baawa |
-        | cat | |
-        | dog | |
-        | horse | |
-        | kangaroo | |
-        | man | |
-        | woman | |
-        | next to | |
-        | behind | |
-        | in front of | |
-        | to the right of | |
-        | to the left of | |
+| English | Bardi | 
+|-----------------|
+| bird | garrabal |
+| child | baawa |
+| cat | |
+| dog | |
+| horse | |
+| kangaroo | |
+| man | |
+| woman | |
+| next to | |
+| behind | |
+| in front of | |
+| to the right of | |
+| to the left of | |
 
 ### Acknowledgements
 
