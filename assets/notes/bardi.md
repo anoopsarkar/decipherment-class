@@ -50,6 +50,7 @@ Here are some Bardi sentences describing the diagram:
 | in front of | |
 | to the right of | |
 | to the left of | |
+{: .table}
 
 ### Acknowledgements
 
