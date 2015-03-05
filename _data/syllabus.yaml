@@ -126,4 +126,17 @@ past:
         - author: Philip Resnik and Eric Hardisty
           title: "Gibbs sampling for the uninitiated"
           url: "http://www.umiacs.umd.edu/~resnik/pubs/LAMP-TR-153.pdf"
-
+  -
+    date: 2015-03-03
+    title: Non-parameteric Bayesian inference
+    reading:
+        - author: Kevin Knight
+          title: "Bayesian Inference with Tears"
+          url: "http://www.isi.edu/natural-language/people/bayes-with-tears.pdf"
+  -
+    date: 2015-03-03
+    title: Bayesian decipherment
+    reading:
+        - author: Catherine Sheard
+          title: "Bardi"
+          url: "assets/notes/bardi.html"
