@@ -104,4 +104,4 @@ times.
 
 ### Acknowledgements
 
-Original puzzle by Richard Sproat for NACLO 2009 (N2009-H).
+Original puzzle by Richard Sproat for NACLO 2009 ([N2009-H](http://www.nacloweb.org/resources/problems/2009/N2009-H.pdf)).

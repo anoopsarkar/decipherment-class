@@ -140,3 +140,21 @@ past:
         - author: Catherine Sheard
           title: "Bardi"
           url: "assets/notes/bardi.html"
+  - 
+    date: 2015-03-10
+    title: EM and Bayesian decipherment
+    reading:
+        - title: "Unsupervised Analysis for Decipherment Problems"
+          url: "http://www.aclweb.org/anthology/P06-2065"
+          author: K. Knight and A. Nair and N. Rathod and K. Yamada
+          citation: ACL-COLING 2006
+        -
+          title: "Probabilistic Methods for a Japanese Syllable Cipher"
+          url: "http://www.isi.edu/natural-language/mt/iccpol09.pdf"
+          author: S. Ravi and K. Knight
+          citation: ICCPOL 2009
+        -
+          title: "A Statistical Model for Lost Language Decipherment"
+          url: "http://www.aclweb.org/anthology/P/P10/P10-1107.pdf"
+          author: B. Snyder and R. Barzilay and K. Knight
+          citation: ACL 2010
