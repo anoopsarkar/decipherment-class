@@ -34,6 +34,9 @@ Here are some Bardi sentences describing the diagram:
 1. oorany joorroonggony baawon
 1. yaawarda bornkony aambon
 
+Fill in the blanks below as much as possible. One row in the table will remain without an equivalent Bardi translation.
+The missing translation is `aarlgoodony` in Bardi.
+
 
 | English | Bardi | 
 |-----------------|
