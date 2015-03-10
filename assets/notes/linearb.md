@@ -98,9 +98,9 @@ that was used in Mycenaean times.
     |-----------------|
     |1| ![](../img/linearb070.png)![](../img/linearb054.png) | girl | |
     |2| ![](../img/linearb003.png)![](../img/linearb059.png) | all | |
-    |3| ![](../img/linearb008.png)![](../img/linearb059.png) | this | |
-    |4| ![](../img/linearb008.png)![](../img/linearb059.png) | cumin | |
-    |5| ![](../img/linearb008.png)![](../img/linearb059.png) | linen | |
+    |3| ![](../img/linearb005.png)![](../img/linearb012.png) | this | |
+    |4| ![](../img/linearb081.png)![](../img/linearb073.png)![](../img/linearb052.png) | cumin | |
+    |5| ![](../img/linearb013.png)![](../img/linearb052.png) | linen | |
     {: .table}
 
 ### Acknowledgements
