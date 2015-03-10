@@ -34,8 +34,8 @@ in Mycenean Greek (not their pronunciation in Modern Greek).  We
 do not know the location of *Kuprios*; also *Tulisos* and *Kunari*
 are two different places. Most of these names have stayed more or
 less the same until the present day. However one of the names on
-the map (a _distractor_) is not the same that was used in Mycenaean
-times.
+the map (a _distractor_) is not written using the pronunciation
+that was used in Mycenaean times.
 
 ![Crete map](../img/crete.png 'Crete map')
 
@@ -72,26 +72,24 @@ times.
     |1| ![](../img/linearb003.png) | |
     |2| ![](../img/linearb005.png) | |
     |3| ![](../img/linearb008.png) | |
-    |4| ![](../img/linearb008.png) | |
-    |5| ![](../img/linearb010.png) | |
-    |6| ![](../img/linearb012.png) | |
-    |7| ![](../img/linearb014.png) | |
-    |8| ![](../img/linearb026.png) | |
-    |9| ![](../img/linearb028.png) | |
-    |10| ![](../img/linearb030.png) | |
-    |11| ![](../img/linearb036.png) | |
-    |12| ![](../img/linearb039.png) | |
-    |13| ![](../img/linearb052.png) | |
-    |14| ![](../img/linearb052.png) | |
-    |15| ![](../img/linearb053.png) | |
-    |16| ![](../img/linearb054.png) | |
-    |17| ![](../img/linearb057.png) | |
-    |18| ![](../img/linearb059.png) | |
-    |19| ![](../img/linearb067.png) | |
-    |20| ![](../img/linearb069.png) | |
-    |21| ![](../img/linearb070.png) | |
-    |22| ![](../img/linearb073.png) | |
-    |23| ![](../img/linearb081.png) | |
+    |4| ![](../img/linearb010.png) | |
+    |5| ![](../img/linearb012.png) | |
+    |6| ![](../img/linearb014.png) | |
+    |7| ![](../img/linearb026.png) | |
+    |8| ![](../img/linearb028.png) | |
+    |9| ![](../img/linearb030.png) | |
+    |10| ![](../img/linearb036.png) | |
+    |11| ![](../img/linearb039.png) | |
+    |12| ![](../img/linearb052.png) | |
+    |13| ![](../img/linearb053.png) | |
+    |14| ![](../img/linearb054.png) | |
+    |15| ![](../img/linearb057.png) | |
+    |16| ![](../img/linearb059.png) | |
+    |17| ![](../img/linearb067.png) | |
+    |18| ![](../img/linearb069.png) | |
+    |19| ![](../img/linearb070.png) | |
+    |20| ![](../img/linearb073.png) | |
+    |21| ![](../img/linearb081.png) | |
     {: .table}
 
 4. What are the likely pronunciations of the following words:
@@ -99,7 +97,10 @@ times.
     | | Linear B | English | Pronunciation | 
     |-----------------|
     |1| ![](../img/linearb070.png)![](../img/linearb054.png) | girl | |
-    |2| ![](../img/linearb008.png)![](../img/linearb059.png) | all | |
+    |2| ![](../img/linearb003.png)![](../img/linearb059.png) | all | |
+    |3| ![](../img/linearb008.png)![](../img/linearb059.png) | this | |
+    |4| ![](../img/linearb008.png)![](../img/linearb059.png) | cumin | |
+    |5| ![](../img/linearb008.png)![](../img/linearb059.png) | linen | |
     {: .table}
 
 ### Acknowledgements
