@@ -100,7 +100,7 @@ that was used in Mycenaean times.
     |2| ![](../img/linearb003.png)![](../img/linearb059.png) | all | |
     |3| ![](../img/linearb005.png)![](../img/linearb012.png) | this | |
     |4| ![](../img/linearb081.png)![](../img/linearb073.png)![](../img/linearb052.png) | cumin | |
-    |5| ![](../img/linearb013.png)![](../img/linearb052.png) | linen | |
+    |5| ![](../img/linearb053.png)![](../img/linearb052.png) | linen | |
     {: .table}
 
 ### Acknowledgements
