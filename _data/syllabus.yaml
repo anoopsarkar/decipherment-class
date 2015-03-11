@@ -144,6 +144,9 @@ past:
     date: 2015-03-10
     title: EM and decipherment
     reading:
+        - title: "Linear Combinations"
+          author: Richard Sproat
+          url: "assets/notes/linearb.html"
         - title: "Unsupervised Analysis for Decipherment Problems"
           url: "http://www.aclweb.org/anthology/P06-2065"
           author: K. Knight and A. Nair and N. Rathod and K. Yamada
