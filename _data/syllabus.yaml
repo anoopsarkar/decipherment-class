@@ -142,7 +142,7 @@ past:
           url: "assets/notes/bardi.html"
   - 
     date: 2015-03-10
-    title: EM and Bayesian decipherment
+    title: EM and decipherment
     reading:
         - title: "Unsupervised Analysis for Decipherment Problems"
           url: "http://www.aclweb.org/anthology/P06-2065"
@@ -155,6 +155,8 @@ past:
           citation: ICCPOL 2009
   - 
     date: 2015-03-12
+    title: Search and decipherment
+    reading:
         -
           title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
           author: S. Ravi and K. Knight
@@ -169,6 +171,8 @@ past:
           author: Bradley Hauer and Ryan Hayward and Greg Kondrak
           url: "http://www.aclweb.org/anthology/C14-1218"
   - date: 2015-03-17
+    title: Bayesian decipherment and Ugaritic
+    reading:
         -
           title: "A Statistical Model for Lost Language Decipherment"
           url: "http://www.aclweb.org/anthology/P/P10/P10-1107.pdf"
