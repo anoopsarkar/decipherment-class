@@ -181,3 +181,9 @@ past:
           url: "http://www.aclweb.org/anthology/P/P10/P10-1107.pdf"
           author: B. Snyder and R. Barzilay and K. Knight
           citation: ACL 2010
+        - 
+          title: "They cracked this 250-year old code, and found a secret society inside"
+          url: "http://www.wired.com/2012/11/ff-the-manuscript/"
+          author: "Noah Shachtman, Wired magazine"
+          video: "https://www.youtube.com/watch?v=Eam0Tk-1FyI"
+          optional: true
