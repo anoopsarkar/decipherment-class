@@ -153,6 +153,22 @@ past:
           url: "http://www.isi.edu/natural-language/mt/iccpol09.pdf"
           author: S. Ravi and K. Knight
           citation: ICCPOL 2009
+  - 
+    date: 2015-03-12
+        -
+          title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
+          author: S. Ravi and K. Knight
+          citation: "Cryptologia, 33(4), pp. 321-334, 2009"
+          url: "http://www.informaworld.com/smpp/ftinterface~content=a914962270~fulltext=713240930"
+        -
+          title: "An Exact A* Method for Deciphering Letter-Substitution Ciphers"
+          author: E. Corlett and G. Penn
+          citation: ACL 2010
+        -
+          title: Solving Substitution Ciphers with Combined Language Models
+          author: Bradley Hauer and Ryan Hayward and Greg Kondrak
+          url: "http://www.aclweb.org/anthology/C14-1218"
+  - date: 2015-03-17
         -
           title: "A Statistical Model for Lost Language Decipherment"
           url: "http://www.aclweb.org/anthology/P/P10/P10-1107.pdf"
