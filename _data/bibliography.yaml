@@ -137,6 +137,10 @@ papers:
     author: Katherine Wu and Jennifer Solman and Ruth Linehan and Richard Sproat
     url: http://elanguage.net/journals/lsameeting/article/view/2845/pdf
     citation: Linguistic Society of America, Portland, OR, January 2012.
+  -
+    title: "Universal Grapheme to Phoneme Prediction over Latin Alphabets"
+    author: "Young-Bum Kim and Benjamin Snyder"
+    citation: "EMNLP 2012"
   - 
     title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
     author: Qing Dou and Kevin Knight
