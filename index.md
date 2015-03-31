@@ -61,7 +61,7 @@ Grading
 : Submit homework source code and check your grades on [Coursys](https://courses.cs.sfu.ca/2015sp-cmpt-882-g2/)
 
 * Two programming homeworks. (20%; 10% each)
-* Discussion board activity on readings. (15%)
+* In class decipherment exercises. (15%)
 * Language in 10. (5%)
 * In class presentations. (20%)
 * Poster presentation. (10%)
