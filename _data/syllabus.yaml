@@ -162,12 +162,12 @@ past:
     reading:
         -
           title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
+          url: "http://www.aclweb.org/anthology/D08-1085"
           author: S. Ravi and K. Knight
-          citation: "Cryptologia, 33(4), pp. 321-334, 2009"
-          url: "http://www.informaworld.com/smpp/ftinterface~content=a914962270~fulltext=713240930"
+          citation: "EMNLP 2008"
         -
           title: "An Exact A* Method for Deciphering Letter-Substitution Ciphers"
-          url: "https://aclweb.org/anthology/P/P10/P10-1106.pdf"
+          url: "http://aclweb.org/anthology/P/P10/P10-1106.pdf"
           author: E. Corlett and G. Penn
           citation: ACL 2010
         -
