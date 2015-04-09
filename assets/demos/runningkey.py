@@ -1,14 +1,13 @@
 import string
 import sys
 #keytext = 'thequickbrownfoxjumpsoverthelazydog'
-keytext = 'almosteverypaperwewillreadiswrittenbykevinknightandhisjustlyfamousdisciplesoftheunderworld'
+keytext = 'almosteverypaperwewillreadiswrittenbykevinknightandhisjustlyfamousdisciples'
 
-plaintext = """_this_course_is_about_machine_learning_and_natural_language_processing_methods_applied_to_the_task_of_decipherment_
-_codes_ciphers_and_scripts_are_examples_of_things_that_need_decipherment_
-_the_problem_of_decipherment_is_a_canonical_example_of_unsupervised_learning_as_there_is_no_human_annotation_available_
-_so_the_course_will_focus_on_many_unsupervised_learning_methods_applicable_to_the_decipherment_task_
-_we_will_also_study_how_decipherment_methods_can_be_useful_for_other_nlp_tasks_such_as_machine_translation_
-"""
+plaintext = """ this course is about machine learning and natural language processing methods applied to the task of decipherment 
+ codes ciphers and scripts are examples of things that need decipherment 
+ the problem of decipherment is a canonical example of unsupervised learning as there is no human annotation available 
+ so the course will focus on many unsupervised learning methods applicable to the decipherment task 
+ we will also study how decipherment methods can be useful for other nlp tasks such as machine translation """
 #plaintext = """This course is about machine learning and natural language processing
 # methods applied to the task of decipherment. Codes, ciphers,
 #and scripts are examples of things that need decipherment. The
@@ -30,7 +29,14 @@ for i, c in enumerate(plaintext):
         cipherchar = string.lowercase[cipherindex]
         if c.isupper(): out += cipherchar.upper()
         else: out += cipherchar
-for c in out:
-    if c == '\n': print '\n'
-    else: print '\"%s\"' % (c),
 print
+for c in out:
+    if c == ' ':
+        print '\"_\"',
+    elif c == '\n':
+        print
+        print
+    elif c.lower() in string.lowercase: 
+        print '\"%s\"' % (c.lower()),
+    else: 
+        pass
