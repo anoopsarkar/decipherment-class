@@ -163,7 +163,7 @@ past:
           citation: ICCPOL 2009
   - 
     date: 2015-03-12
-    title: Search and decipherment
+    title: Search and decipherment <span class="text-muted">Presentation by Karol</span>
     reading:
         -
           title: "Attacking Decipherment Problems Optimally with Low-Order N-gram Models"
@@ -197,16 +197,18 @@ past:
           video: "https://www.youtube.com/watch?v=Eam0Tk-1FyI"
           optional: true
   - date: 2015-03-24
-    title: Homophonic ciphers
+    title: Homophonic ciphers <span class="text-muted">Presentation by Ramtin</span>
     reading:
         -
           title: "Bayesian Inference for Zodiac and Other Homophonic Ciphers"
           author: S. Ravi and K. Knight
           citation: ACL 2011
+          url: "http://www.aclweb.org/anthology/P11-1025"
         -
           title: "Simple Effective Decipherment via Combinatorial Optimization"
           author: T. Berg-Kirkpatrick and D. Klein
           citation: EMNLP 2011
+          url: "http://www.aclweb.org/anthology/D11-1029"
         -
           title: "Zodiac"
           author: David Fincher
@@ -215,46 +217,54 @@ past:
   - date: 2015-03-26
     title: "No class: Distinguished Lecture"
   - date: 2015-03-31
-    title: Decipherment and Machine Translation
+    title: Decipherment and Machine Translation <span class="text-muted">Presentation by Mehdi+Zhelun</span>
     reading:
         - 
            title: "Large Scale Decipherment for Out-of-Domain Machine Translation" 
            author: Qing Dou and Kevin Knight
            citation: EMNLP 2012
+           url: "http://aclweb.org/anthology/D/D12/D12-1025.pdf"
         - 
            title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
            author: Qing Dou and Kevin Knight
            citation: EMNLP 2013
+           url: "http://aclweb.org/D/D13/D13-1173.pdf"
         - 
            title: "Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation" 
            author: Qing Dou and Ashish Vaswani and Kevin Knight
            citation: EMNLP 2014
+           url: "http://aclweb.org/anthology/D/D14/D14-1061.pdf"
   - date: 2015-04-02
-    title: Cipher Type Detection
+    title: Cipher Type Detection <span class="text-muted">Presentation by Hassan+Jasneet</span>
     reading:
         - 
            title: "Cipher Type Detection" 
            author: Malte Nuhn and Kevin Knight
            citation: EMNLP 2014
+           url: "http://aclweb.org/anthology/D/D14/D14-1185.pdf"
         - 
            title: "Decoding Running Key Ciphers" 
            author: Sravana Reddy and Kevin Knight
            citation: short paper. ACL 2012
+           url: "http://www.aclweb.org/anthology/P12-2016"
   - date: 2015-04-07
-    title: Beam search for decipherment
+    title: Beam search for decipherment <span class="text-muted">Presentation by Anahita+Golnar</span>
     reading:
         -
           title: "Beam Search for Solving Substitution Ciphers" 
           author: M. Nuhn, J. Schamper, and H. Ney
           citation: ACL 2013
+          url: "http://www.aclweb.org/anthology/P13-1154"
         -
           title: "Deciphering Foreign Language by Combining Language Models and Context Vectors"
           author: M. Nuhn and A. Mauser and H. Ney
           citation: ACL 2012
+          url: "http://www.aclweb.org/anthology/P12-1017"
         -
           title: "Decipherment Complexity in 1:1 Substitution Ciphers"
           author: M. Nuhn, and H. Ney
           citation: ACL 2013
+          url: "http://www.aclweb.org/anthology/P13-1060"
   - date: 2015-04-09
     title: Unsupervised multilingual text to speech
     reading:
@@ -262,9 +272,11 @@ past:
           title: "Unsupervised Consonant-Vowel Prediction over Hundreds of Languages" 
           author: Y. Kim and B. Snyder
           citation: ACL 2013
+          url: "http://www.aclweb.org/anthology/P13-1150"
         -
           title: "Universal Grapheme to Phoneme Prediction over Latin Alphabets"
           author: "Young-Bum Kim and Benjamin Snyder"
           citation: "EMNLP 2012"
+          url: "http://aclweb.org/anthology/D/D12/D12-1031.pdf"
   - date: 2015-04-14
     title: Final project presentations
