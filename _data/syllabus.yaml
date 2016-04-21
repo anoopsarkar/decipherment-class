@@ -103,6 +103,11 @@ past:
     date: 2015-02-17
     title: Dynamic programming for EM; Unsupervised learning with features 
     reading:
+        - author: Michael Collins
+          title: "Hidden Markov Models"
+          url: http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf
+          download: http://anoopsarkar.github.io/nlp-class/assets/mcollins-notes/hmms-spring2013.pdf
+          optional: false
         - author: Harold Somers
           title: Phoenician Fun
           url: "assets/notes/phoenician.html"
@@ -170,11 +175,14 @@ past:
           url: "http://aclweb.org/anthology/P/P10/P10-1106.pdf"
           author: E. Corlett and G. Penn
           citation: ACL 2010
+  - date: 2015-03-17
+    title: Search and decipherment
+    reading:
         -
           title: Solving Substitution Ciphers with Combined Language Models
           author: Bradley Hauer and Ryan Hayward and Greg Kondrak
           url: "http://www.aclweb.org/anthology/C14-1218"
-  - date: 2015-03-17
+  - date: 2015-03-19
     title: Bayesian decipherment and Ugaritic
     reading:
         -
@@ -188,3 +196,75 @@ past:
           author: "Noah Shachtman, Wired magazine"
           video: "https://www.youtube.com/watch?v=Eam0Tk-1FyI"
           optional: true
+  - date: 2015-03-24
+    title: Homophonic ciphers
+    reading:
+        -
+          title: "Bayesian Inference for Zodiac and Other Homophonic Ciphers"
+          author: S. Ravi and K. Knight
+          citation: ACL 2011
+        -
+          title: "Simple Effective Decipherment via Combinatorial Optimization"
+          author: T. Berg-Kirkpatrick and D. Klein
+          citation: EMNLP 2011
+        -
+          title: "Zodiac"
+          author: David Fincher
+          url: "http://www.imdb.com/title/tt0443706/"
+          optional: true
+  - date: 2015-03-26
+    title: "No class: Distinguished Lecture"
+  - date: 2015-03-31
+    title: Decipherment and Machine Translation
+    reading:
+        - 
+           title: "Large Scale Decipherment for Out-of-Domain Machine Translation" 
+           author: Qing Dou and Kevin Knight
+           citation: EMNLP 2012
+        - 
+           title: "Dependency-Based Decipherment for Resource-Limited Machine Translation" 
+           author: Qing Dou and Kevin Knight
+           citation: EMNLP 2013
+        - 
+           title: "Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation" 
+           author: Qing Dou and Ashish Vaswani and Kevin Knight
+           citation: EMNLP 2014
+  - date: 2015-04-02
+    title: Cipher Type Detection
+    reading:
+        - 
+           title: "Cipher Type Detection" 
+           author: Malte Nuhn and Kevin Knight
+           citation: EMNLP 2014
+        - 
+           title: "Decoding Running Key Ciphers" 
+           author: Sravana Reddy and Kevin Knight
+           citation: short paper. ACL 2012
+  - date: 2015-04-07
+    title: Beam search for decipherment
+    reading:
+        -
+          title: "Beam Search for Solving Substitution Ciphers" 
+          author: M. Nuhn, J. Schamper, and H. Ney
+          citation: ACL 2013
+        -
+          title: "Deciphering Foreign Language by Combining Language Models and Context Vectors"
+          author: M. Nuhn and A. Mauser and H. Ney
+          citation: ACL 2012
+        -
+          title: "Decipherment Complexity in 1:1 Substitution Ciphers"
+          author: M. Nuhn, and H. Ney
+          citation: ACL 2013
+  - date: 2015-04-09
+    title: Unsupervised multilingual text to speech
+    reading:
+        -
+          title: "Unsupervised Consonant-Vowel Prediction over Hundreds of Languages" 
+          author: Y. Kim and B. Snyder
+          citation: ACL 2013
+        -
+          title: "Universal Grapheme to Phoneme Prediction over Latin Alphabets"
+          author: "Young-Bum Kim and Benjamin Snyder"
+          citation: "EMNLP 2012"
+  - date: 2015-04-14
+    title: Final project presentations
