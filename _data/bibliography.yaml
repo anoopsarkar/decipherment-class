@@ -161,6 +161,11 @@ papers:
     title: "Unsupervised Consonant-Vowel Prediction over Hundreds of Languages" 
     author: Y. Kim and B. Snyder
     citation: ACL 2013
+  - 
+    title: Decipherment with a Million Random Restarts
+    author: Taylor Berg-Kirkpatrick and Dan Klein
+    citation: EMNLP 2013
+    url: "http://www.aclweb.org/anthology/D13-1087"
   -
     title: "Practical Linguistic Steganography using Contextual Synonym Substitution and a Novel Vertex Coding Method"
     author: Ching-Yun Chang and Stephen Clark
@@ -174,6 +179,11 @@ papers:
     title: "Cipher Type Detection" 
     author: Malte Nuhn and Kevin Knight
     citation: EMNLP 2014
+  - 
+    title: "EM Decipherment for Large Vocabularies"
+    author: Malte Nuhn and Hermann Ney
+    citation: ACL 2014
+    url: "http://www.aclweb.org/anthology/P14-2123"
   -
     title: "A Statistical Comparison of Written Language and Nonlinguistic Symbol Systems"
     author: Richard Sproat

@@ -204,11 +204,21 @@ past:
           author: S. Ravi and K. Knight
           citation: ACL 2011
           url: "http://www.aclweb.org/anthology/P11-1025"
+        - 
+          title: "EM Decipherment for Large Vocabularies"
+          author: Malte Nuhn and Hermann Ney
+          citation: ACL 2014
+          url: "http://www.aclweb.org/anthology/P14-2123"
         -
           title: "Simple Effective Decipherment via Combinatorial Optimization"
           author: T. Berg-Kirkpatrick and D. Klein
           citation: EMNLP 2011
           url: "http://www.aclweb.org/anthology/D11-1029"
+        - 
+          title: Decipherment with a Million Random Restarts
+          author: Taylor Berg-Kirkpatrick and Dan Klein
+          citation: EMNLP 2013
+          url: "http://www.aclweb.org/anthology/D13-1087"
         -
           title: "Zodiac"
           author: David Fincher
