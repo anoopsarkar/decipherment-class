@@ -30,6 +30,8 @@ such as machine translation.
 * Chinese script into pinyin
 * Urdu script into Devanagiri
 
+[More information about deciphered scripts](assets/notes/decipherment-history.html)
+
 ### Applications of decipherment
 
 * Adversarial text into plain text
